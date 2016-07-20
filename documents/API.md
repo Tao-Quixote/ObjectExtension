@@ -2,47 +2,57 @@
 
 If you include the OE.js file into your page, you will get a global variable 'OE' in your browser, and all the following functions can be find in 'OE'.
 
-### 1、isArray
+### isArray
 
 This method can be used to detect if the given object is Array or not. The usage of this method is as following codes:
 
 ```javascript
-OE.isArray([]);
+OE.isArray(obj);
 ```
 
-### 2、isString
+### isString
 
 This method can be used to detect if the given object is String or not. The usage of this method is as following codes:
 
 ```javascript
-OE.isString([]);
+OE.isString(obj);
 ```
 
-### 3、isNumber
+### isNumber
 
 This method can be used to detect if the given object is Number or not. The usage of this method is as following codes:
 
 ```javascript
-OE.isNumber([]);
+OE.isNumber(obj);
 ```
 
-### 4、isBoolean
+### isBoolean
 
 This method can be used to detect if the given object is Boolean or not. The usage of this method is as following codes:
 
 ```javascript
-OE.isBoolean([]);
+OE.isBoolean(obj);
 ```
 
-### 5、isObject
+### isObject
 
 This method can be used to detect if the given object is Object or not. The usage of this method is as following codes:
 
 ```javascript
-OE.isObject([]);
+OE.isObject(obj);
 ```
 
-### 6、createFrom
+### isFunction
+
+This method can be used to detect if the given object is Function or not. The usage of this method is as following codes:
+
+```javascript
+OE.isFunction(obj);
+```
+
+### createFrom
+
+This method is created by Douglas Crockford.
 
 This method can be used to create a new Object from a given object, so the new object's prototype comes from the given object. The usage of this method is as following codes:
 

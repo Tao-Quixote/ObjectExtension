@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a160b921-7a34-4561-9862-b4a6cc7dfe27" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documents/API.md" afterPath="$PROJECT_DIR$/documents/API.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documents/overView.md" afterPath="$PROJECT_DIR$/documents/overView.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OE.js" afterPath="$PROJECT_DIR$/OE.js" />
     </list>
@@ -29,8 +28,8 @@
       <file leaf-file-name="OE.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/OE.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+            <state relative-caret-position="513">
+              <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
               <folding>
                 <element signature="e#309#426#0" expanded="false" />
                 <element signature="e#467#643#0" expanded="false" />
@@ -42,9 +41,10 @@
                 <element signature="e#1520#1698#0" expanded="false" />
                 <element signature="e#1712#1829#0" expanded="false" />
                 <element signature="e#1870#2047#0" expanded="false" />
-                <element signature="e#1950#2002#0" expanded="false" />
-                <element signature="e#2061#2183#0" expanded="false" />
-                <element signature="e#2224#2364#0" expanded="false" />
+                <element signature="e#2061#2103#0" expanded="false" />
+                <element signature="e#2144#2323#0" expanded="false" />
+                <element signature="e#2337#2459#0" expanded="false" />
+                <element signature="e#2500#2640#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -117,7 +117,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -166,12 +165,13 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CanvasExtension" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="FullScreen" value="true" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
@@ -251,19 +251,28 @@
       <workItem from="1466675833484" duration="508000" />
       <workItem from="1466681826307" duration="1047000" />
       <workItem from="1466989229112" duration="2060000" />
-      <workItem from="1467111161976" duration="3542000" />
+      <workItem from="1467111161976" duration="3810000" />
+      <workItem from="1467169644630" duration="176000" />
     </task>
+    <task id="LOCAL-00001" summary="Initialize the OE.js and complete the documents.">
+      <created>1467168370828</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1467168370828</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7157000" />
+    <option name="totallyTimeSpent" value="7601000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26729107" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27161384" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -283,6 +292,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initialize the OE.js and complete the documents." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initialize the OE.js and complete the documents." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -304,9 +317,41 @@
             <element signature="e#1520#1698#0" expanded="false" />
             <element signature="e#1712#1829#0" expanded="false" />
             <element signature="e#1870#2047#0" expanded="false" />
-            <element signature="e#1950#2002#0" expanded="false" />
-            <element signature="e#2061#2183#0" expanded="false" />
-            <element signature="e#2224#2364#0" expanded="false" />
+            <element signature="e#2061#2103#0" expanded="false" />
+            <element signature="e#2144#2323#0" expanded="false" />
+            <element signature="e#2337#2459#0" expanded="false" />
+            <element signature="e#2500#2640#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OE.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#309#426#0" expanded="false" />
+            <element signature="e#467#643#0" expanded="false" />
+            <element signature="e#657#777#0" expanded="false" />
+            <element signature="e#818#995#0" expanded="false" />
+            <element signature="e#1009#1128#0" expanded="false" />
+            <element signature="e#1169#1346#0" expanded="false" />
+            <element signature="e#1360#1479#0" expanded="false" />
+            <element signature="e#1520#1698#0" expanded="false" />
+            <element signature="e#1712#1829#0" expanded="false" />
+            <element signature="e#1870#2047#0" expanded="false" />
+            <element signature="e#2061#2103#0" expanded="false" />
+            <element signature="e#2144#2323#0" expanded="false" />
+            <element signature="e#2337#2459#0" expanded="false" />
+            <element signature="e#2500#2640#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -334,9 +379,10 @@
             <element signature="e#1520#1698#0" expanded="false" />
             <element signature="e#1712#1829#0" expanded="false" />
             <element signature="e#1870#2047#0" expanded="false" />
-            <element signature="e#1950#2002#0" expanded="false" />
-            <element signature="e#2061#2183#0" expanded="false" />
-            <element signature="e#2224#2364#0" expanded="false" />
+            <element signature="e#2061#2103#0" expanded="false" />
+            <element signature="e#2144#2323#0" expanded="false" />
+            <element signature="e#2337#2459#0" expanded="false" />
+            <element signature="e#2500#2640#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -364,9 +410,10 @@
             <element signature="e#1520#1698#0" expanded="false" />
             <element signature="e#1712#1829#0" expanded="false" />
             <element signature="e#1870#2047#0" expanded="false" />
-            <element signature="e#1950#2002#0" expanded="false" />
-            <element signature="e#2061#2183#0" expanded="false" />
-            <element signature="e#2224#2364#0" expanded="false" />
+            <element signature="e#2061#2103#0" expanded="false" />
+            <element signature="e#2144#2323#0" expanded="false" />
+            <element signature="e#2337#2459#0" expanded="false" />
+            <element signature="e#2500#2640#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -389,8 +436,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/OE.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+        <state relative-caret-position="513">
+          <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
           <folding>
             <element signature="e#309#426#0" expanded="false" />
             <element signature="e#467#643#0" expanded="false" />
@@ -402,9 +449,10 @@
             <element signature="e#1520#1698#0" expanded="false" />
             <element signature="e#1712#1829#0" expanded="false" />
             <element signature="e#1870#2047#0" expanded="false" />
-            <element signature="e#1950#2002#0" expanded="false" />
-            <element signature="e#2061#2183#0" expanded="false" />
-            <element signature="e#2224#2364#0" expanded="false" />
+            <element signature="e#2061#2103#0" expanded="false" />
+            <element signature="e#2144#2323#0" expanded="false" />
+            <element signature="e#2337#2459#0" expanded="false" />
+            <element signature="e#2500#2640#0" expanded="false" />
           </folding>
         </state>
       </provider>

@@ -74,6 +74,16 @@
                 return false;
             },
             /**
+             * 检测是否为函数
+             */
+            isFunction : function (obj) {
+                if (Object.prototype.toString.call(obj) == '[object Function]') {
+                    return true;
+                }
+
+                return false;
+            },
+            /**
              * 创建一个使用给定对象作为原型的新对象
              *
              * @param obj
