@@ -59,3 +59,15 @@ This method can be used to create a new Object from a given object, so the new o
 ```javascript
 OE.createFrom(obj);
 ```
+
+### addHandler & removeHandler
+
+The two methods were used to add/delete event listener from the specific element. Both of them need three params, the element, the type of the event and the handler of the event. the usage of this method is as following codes:
+
+```javascript
+var btn = document.querySelector('#btn');
+var handler = function() {};
+
+OE.addHandler(btn, "click", handler);
+OE.removeHandler(btn, "click", handler);
+```

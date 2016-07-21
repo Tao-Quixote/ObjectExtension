@@ -95,6 +95,38 @@
                 F.prototype = obj;
 
                 return new F();
+            },
+            /**
+             * 给指定的元素添加事件监听
+             *
+             * @param e 元素
+             * @param t 事件类型
+             * @param h 处理方法
+             */
+            addHandler   : function (e, t, h) {
+                if (e.addEventListener) {
+                    e.addEventListener(t, h, false);
+                } else if (e.attachEvent) {
+                    e.attachEvent("on" + t, h);
+                } else {
+                    e[ "on" + t ] = h;
+                }
+            },
+            /**
+             * 移除指定元素的事件监听
+             *
+             * @param e 元素
+             * @param t 事件类型
+             * @param h 处理方法
+             */
+            removeHandle : function (e, t, h) {
+                if (e.removeEventListener) {
+                    e.removeEventListener(t, h);
+                } else if (e.detachEvent) {
+                    e.detachEvent("on" + t, h);
+                } else {
+                    e[ "on" + t ] = null;
+                }
             }
         }
     }
