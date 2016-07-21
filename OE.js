@@ -172,6 +172,30 @@
                 } else {
                     e.cancelBubble = true;
                 }
+            },
+            /**
+             * IE8及更低版本不支持event.pageX和event.pageY,
+             * 该方法用来扩展IE8及更低版本,使其可以获取event.pageX和event.pageY
+             *
+             * @param e
+             * @returns {{pageX: (*|Number), pageY: (*|Number)}}
+             */
+            getPageXY       : function (e) {
+                var pageX = e.pageX;
+                var pageY = e.pageY;
+                if (!pageX) {
+                    pageX = e.clientX + (document.body.scrollLeft || document.documentElement.scrollLeft
+                        );
+                }
+                if (!pageY) {
+                    pageY = e.clientY + (document.body.scrollTop || document.documentElement.scrollTop
+                        )
+                }
+
+                return {
+                    pageX : pageX,
+                    pageY : pageY
+                };
             }
         }
     }

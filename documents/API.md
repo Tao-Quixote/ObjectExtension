@@ -103,3 +103,20 @@ This method is used to stop the propagation of the browser event, it can be used
 ```javascript
 OE.stopPropagation(e);
 ```
+
+### getPageXY
+
+This method is used to solve the problem that IE8 and earlier versions of IE can not get event.pageX & event.pageY, beacuse the two can be calculated by scroll and client, so this is the method. The usage of the method is as following codes:
+
+```javascript
+OE.getPageXY(e);
+```
+
+The param e is the event that generate by user's actions. The result will be returned as an object, the structure is like this:
+
+```javascript
+{
+	pageX: num,
+	pageY: num
+}
+```
