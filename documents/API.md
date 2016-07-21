@@ -71,3 +71,35 @@ var handler = function() {};
 OE.addHandler(btn, "click", handler);
 OE.removeHandler(btn, "click", handler);
 ```
+
+### getEvent
+
+This method is used to get the Event that generate by user's action, it can be used in any kind of brower, IE included. The usage of the method is as following codes:
+
+```javascript
+OE.getEvent(e);
+```
+
+### getTarget
+
+This method is used to get the target of the event, it can be used in any kind of brower, IE included. The usage of the method is as following codes:
+
+```javascript
+OE.getTarget(e);
+```
+
+### preventDefault
+
+This method is used to prevent the default action of html element, it can be used in any kind of brower, IE included. The usage of the method is as following codes:
+
+```javascript
+OE.preventDefault(e);
+```
+
+### stopPropagation
+
+This method is used to stop the propagation of the browser event, it can be used in any kind of brower, IE included. The usage of the method is as following codes:
+
+```javascript
+OE.stopPropagation(e);
+```
