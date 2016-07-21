@@ -14,7 +14,7 @@
              * @param obj
              * @returns {boolean}
              */
-            isArray    : function (obj) {
+            isArray         : function (obj) {
                 if ('[object Array]' == Object.prototype.toString.call(obj)) {
                     return true;
                 }
@@ -27,7 +27,7 @@
              * @param obj
              * @returns {boolean}
              */
-            isString   : function (obj) {
+            isString        : function (obj) {
                 if (Object.prototype.toString.call(obj) == '[object String]') {
                     return true;
                 }
@@ -40,7 +40,7 @@
              * @param obj
              * @returns {boolean}
              */
-            isNumber   : function (obj) {
+            isNumber        : function (obj) {
                 if (Object.prototype.toString.call(obj) == '[object Number]') {
                     return true;
                 }
@@ -53,7 +53,7 @@
              * @param obj
              * @returns {boolean}
              */
-            isBoolean  : function (obj) {
+            isBoolean       : function (obj) {
                 if (Object.prototype.toString.call(obj) == '[object Boolean]') {
                     return true;
                 }
@@ -66,7 +66,7 @@
              * @param obj
              * @returns {boolean}
              */
-            isObject   : function (obj) {
+            isObject        : function (obj) {
                 if (Object.prototype.toString.call(obj) == '[object Object]') {
                     return true;
                 }
@@ -76,7 +76,7 @@
             /**
              * 检测是否为函数
              */
-            isFunction : function (obj) {
+            isFunction      : function (obj) {
                 if (Object.prototype.toString.call(obj) == '[object Function]') {
                     return true;
                 }
@@ -89,7 +89,7 @@
              * @param obj
              * @returns {F}
              */
-            createFrom : function (obj) {
+            createFrom      : function (obj) {
                 var F = function () {
                 };
                 F.prototype = obj;
@@ -103,7 +103,7 @@
              * @param t 事件类型
              * @param h 处理方法
              */
-            addHandler   : function (e, t, h) {
+            addHandler      : function (e, t, h) {
                 if (e.addEventListener) {
                     e.addEventListener(t, h, false);
                 } else if (e.attachEvent) {
@@ -119,7 +119,7 @@
              * @param t 事件类型
              * @param h 处理方法
              */
-            removeHandle : function (e, t, h) {
+            removeHandle    : function (e, t, h) {
                 if (e.removeEventListener) {
                     e.removeEventListener(t, h);
                 } else if (e.detachEvent) {
@@ -127,6 +127,75 @@
                 } else {
                     e[ "on" + t ] = null;
                 }
+            },
+            /**
+             * 获取事件,IE中,DOM0级添加事件时,发生的事件event是window的一个属性
+             *
+             * @param e
+             * @returns {Event}
+             */
+            getEvent        : function (e) {
+                return e ? e : window.event;
+            },
+            /**
+             * 获取事件发生元素, IE中使用srcElement表示事件发生的元素
+             *
+             * @param e
+             * @returns {*}
+             */
+            getTarget       : function (e) {
+                return e.target ? e.target : e.srcElement;
+            },
+            /**
+             * 阻止默认事件的发生,
+             * IE中的event可能不存在preventDefault方法,
+             * 用returnValue表示
+             *
+             * @param e
+             */
+            preventDefault  : function (e) {
+                if (e.preventDefault) {
+                    e.preventDefault();
+                } else {
+                    e.returnValue = false;
+                }
+            },
+            /**
+             * 阻止冒泡事件,IE中可能不存在stopPropagation方法,
+             * 使用cancelBubble代替
+             *
+             * @param e
+             */
+            stopPropagation : function (e) {
+                if (e.stopPropagation) {
+                    e.stopPropagation();
+                } else {
+                    e.cancelBubble = true;
+                }
+            },
+            /**
+             * IE8及更低版本不支持event.pageX和event.pageY,
+             * 该方法用来扩展IE8及更低版本,使其可以获取event.pageX和event.pageY
+             *
+             * @param e
+             * @returns {{pageX: (*|Number), pageY: (*|Number)}}
+             */
+            getPageXY       : function (e) {
+                var pageX = e.pageX;
+                var pageY = e.pageY;
+                if (!pageX) {
+                    pageX = e.clientX + (document.body.scrollLeft || document.documentElement.scrollLeft
+                        );
+                }
+                if (!pageY) {
+                    pageY = e.clientY + (document.body.scrollTop || document.documentElement.scrollTop
+                        )
+                }
+
+                return {
+                    pageX : pageX,
+                    pageY : pageY
+                };
             }
         }
     }
