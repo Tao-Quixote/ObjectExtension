@@ -120,3 +120,11 @@ The param e is the event that generate by user's actions. The result will be ret
 	pageY: num
 }
 ```
+
+### getMouseCoordinate
+
+This method is used to get the coordinate of the mouse when user click it. The result will contains clientX, clientY, pageX, pageY, screenX and screenY. The usage of the method is as following codes:
+
+```javascript
+OE.getMouseCoordinate(e);
+```
