@@ -14,7 +14,7 @@
              * @param obj
              * @returns {boolean}
              */
-            isArray         : function (obj) {
+            isArray            : function (obj) {
                 if ('[object Array]' == Object.prototype.toString.call(obj)) {
                     return true;
                 }
@@ -27,7 +27,7 @@
              * @param obj
              * @returns {boolean}
              */
-            isString        : function (obj) {
+            isString           : function (obj) {
                 if (Object.prototype.toString.call(obj) == '[object String]') {
                     return true;
                 }
@@ -40,7 +40,7 @@
              * @param obj
              * @returns {boolean}
              */
-            isNumber        : function (obj) {
+            isNumber           : function (obj) {
                 if (Object.prototype.toString.call(obj) == '[object Number]') {
                     return true;
                 }
@@ -53,7 +53,7 @@
              * @param obj
              * @returns {boolean}
              */
-            isBoolean       : function (obj) {
+            isBoolean          : function (obj) {
                 if (Object.prototype.toString.call(obj) == '[object Boolean]') {
                     return true;
                 }
@@ -66,7 +66,7 @@
              * @param obj
              * @returns {boolean}
              */
-            isObject        : function (obj) {
+            isObject           : function (obj) {
                 if (Object.prototype.toString.call(obj) == '[object Object]') {
                     return true;
                 }
@@ -76,7 +76,7 @@
             /**
              * 检测是否为函数
              */
-            isFunction      : function (obj) {
+            isFunction         : function (obj) {
                 if (Object.prototype.toString.call(obj) == '[object Function]') {
                     return true;
                 }
@@ -89,7 +89,7 @@
              * @param obj
              * @returns {F}
              */
-            createFrom      : function (obj) {
+            createFrom         : function (obj) {
                 var F = function () {
                 };
                 F.prototype = obj;
@@ -103,7 +103,7 @@
              * @param t 事件类型
              * @param h 处理方法
              */
-            addHandler      : function (e, t, h) {
+            addHandler         : function (e, t, h) {
                 if (e.addEventListener) {
                     e.addEventListener(t, h, false);
                 } else if (e.attachEvent) {
@@ -119,7 +119,7 @@
              * @param t 事件类型
              * @param h 处理方法
              */
-            removeHandle    : function (e, t, h) {
+            removeHandle       : function (e, t, h) {
                 if (e.removeEventListener) {
                     e.removeEventListener(t, h);
                 } else if (e.detachEvent) {
@@ -134,7 +134,7 @@
              * @param e
              * @returns {Event}
              */
-            getEvent        : function (e) {
+            getEvent           : function (e) {
                 return e ? e : window.event;
             },
             /**
@@ -143,7 +143,7 @@
              * @param e
              * @returns {*}
              */
-            getTarget       : function (e) {
+            getTarget          : function (e) {
                 return e.target ? e.target : e.srcElement;
             },
             /**
@@ -153,7 +153,7 @@
              *
              * @param e
              */
-            preventDefault  : function (e) {
+            preventDefault     : function (e) {
                 if (e.preventDefault) {
                     e.preventDefault();
                 } else {
@@ -166,7 +166,7 @@
              *
              * @param e
              */
-            stopPropagation : function (e) {
+            stopPropagation    : function (e) {
                 if (e.stopPropagation) {
                     e.stopPropagation();
                 } else {
@@ -180,7 +180,7 @@
              * @param e
              * @returns {{pageX: (*|Number), pageY: (*|Number)}}
              */
-            getPageXY       : function (e) {
+            getPageXY          : function (e) {
                 var pageX = e.pageX;
                 var pageY = e.pageY;
                 if (!pageX) {
@@ -196,6 +196,31 @@
                     pageX : pageX,
                     pageY : pageY
                 };
+            },
+            /**
+             * 该方法用于获取事件发生的坐标,包括视口位置、页面位置以及屏幕坐标位置
+             * 
+             * @param e
+             * @returns {{clientX: Number, clientY: Number, pageX: *, pageY: *, screenX: (number|Number), screenY: (number|Number)}}
+             */
+            getMouseCoordinate : function (e) {
+                var event = this.getEvent(e);
+                var clientX = event.clientX;
+                var clientY = event.clientY;
+                var pageXY = this.getPageXY(e);
+                var pageX = pageXY.pageX;
+                var pageY = pageXY.pageY;
+                var screenX = e.screenX;
+                var screenY = e.screenY;
+
+                return {
+                    clientX : clientX,
+                    clientY : clientY,
+                    pageX   : pageX,
+                    pageY   : pageY,
+                    screenX : screenX,
+                    screenY : screenY
+                }
             }
         }
     }
