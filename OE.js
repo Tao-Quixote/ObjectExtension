@@ -199,7 +199,7 @@
             },
             /**
              * 该方法用于获取事件发生的坐标,包括视口位置、页面位置以及屏幕坐标位置
-             * 
+             *
              * @param e
              * @returns {{clientX: Number, clientY: Number, pageX: *, pageY: *, screenX: (number|Number), screenY: (number|Number)}}
              */
@@ -220,6 +220,23 @@
                     pageY   : pageY,
                     screenX : screenX,
                     screenY : screenY
+                }
+            },
+            /**
+             * 获取relatedTarget, 兼容IE8
+             * 对于mouseover和mouseout, 同时涉及移入元素和移出元素,
+             * 这两个元素称为相关元素, 此方法用于获取鼠标事件的相关元素
+             *
+             * @param e
+             * @returns {*}
+             */
+            getRelatedTarget   : function (e) {
+                if (e.relatedTarget) {
+                    return e.relatedTarget;
+                } else if (e.fromElement) {
+                    return e.fromElement;
+                } else {
+                    return e.toElement;
                 }
             }
         }
