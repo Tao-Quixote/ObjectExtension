@@ -128,3 +128,11 @@ This method is used to get the coordinate of the mouse when user click it. The r
 ```javascript
 OE.getMouseCoordinate(e);
 ```
+
+### getRelatedTarget
+
+IE8 and ealier version do not support attribute relatedTarget, but it provide another attributes to contain the infos, so this is the method which is compatible. It will return the element that the mouse get out from or coming into. The usage of the method is as following codes:
+
+```javascript
+OE.getRelatedTarget(e);
+```
