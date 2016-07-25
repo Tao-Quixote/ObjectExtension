@@ -138,8 +138,17 @@ OE.getRelatedTarget(e);
 ```
 
 ### getWheelDelta
+
 This method is used to get mousewheel event's wheelDelta, it is compatible of opera 9.5 and ealier and firefox's DOMMouseScroll. The return value is the same as standard, and the usage of this method is as following codes:
 
 ```javascript
 OE.getWheelDelta(e);
+```
+
+### getCharCode
+
+This method is used to get the char code of the key which is pressed. In some browsers, when event keypress occured, event.charCode has the ASCII value of the key which is pressed, but the value of event.keyCode is unpredictable. So when we want to get the code of the pressed key, we should get the event.charCode first, if it is not exist, get event.keyCode. The usage of the method is as the following codes:
+
+```javascript
+OE.getCharCode(e);
 ```
