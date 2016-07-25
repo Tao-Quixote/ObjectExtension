@@ -136,3 +136,10 @@ IE8 and ealier version do not support attribute relatedTarget, but it provide an
 ```javascript
 OE.getRelatedTarget(e);
 ```
+
+### getWheelDelta
+This method is used to get mousewheel event's wheelDelta, it is compatible of opera 9.5 and ealier and firefox's DOMMouseScroll. The return value is the same as standard, and the usage of this method is as following codes:
+
+```javascript
+OE.getWheelDelta(e);
+```
