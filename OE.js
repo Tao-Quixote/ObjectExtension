@@ -247,12 +247,30 @@
              * @param e
              * @returns {*}
              */
-            getWheelDelta : function (e) {
+            getWheelDelta      : function (e) {
                 if (e.wheelDelta) {
                     return (client.engine.opera && client.engine.opera < 9.5 ? -e.wheelDelta : e.wheelDelta
                     );
                 } else {
                     return -e.wheelDelta * 40;
+                }
+            },
+            /**
+             * 获取按键的键码,
+             * e.charCode: keypress事件被触发时才有值, 存放的为对应字符的ASCII码
+             * e.keyCode: e.charCode有值时该属性的值可能为0也可能不为0,
+             * 即keypress事件被触发时该属性的值不确定,
+             * 所以在获取时优先考虑e.charCode中是否有值,
+             * 同时e.charCode获取的值可以通过String.fromCharCode()转换为实际的字符
+             *
+             * @param e
+             * @returns {*}
+             */
+            getCharCode        : function (e) {
+                if (typeof e.charCode == 'number') {
+                    return e.charCode;
+                } else {
+                    return e.keyCode;
                 }
             }
         }
