@@ -238,6 +238,22 @@
                 } else {
                     return e.toElement;
                 }
+            },
+            /**
+             * 获取wheelDelta,
+             * opera 9.5之前的版本返回数值的正负与规范相反,
+             * firefox提供的DOMMouseScroll事件返回的数值为3的倍数,同时与规范符号相反
+             *
+             * @param e
+             * @returns {*}
+             */
+            getWheelDelta : function (e) {
+                if (e.wheelDelta) {
+                    return (client.engine.opera && client.engine.opera < 9.5 ? -e.wheelDelta : e.wheelDelta
+                    );
+                } else {
+                    return -e.wheelDelta * 40;
+                }
             }
         }
     }
