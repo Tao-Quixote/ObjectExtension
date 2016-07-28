@@ -281,7 +281,7 @@
              * @param startIndex
              * @param endIndex
              */
-            selectText : function (obj, startIndex, endIndex) {
+            selectText         : function (obj, startIndex, endIndex) {
                 if (obj.setSelectionRange) {
                     obj.setSelectionRange(startIndex, endIndex);
                 } else {
@@ -290,6 +290,31 @@
                     range.moveStart('character', startIndex);
                     range.moveEnd('character', startIndex - endIndex);
                     range.select();
+                }
+            },
+            /**
+             * 该方法用于在发生剪切版事件时获取剪切板中的内容
+             *
+             * @param e
+             * @returns {string}
+             */
+            getClipboardText   : function (e) {
+                var clipboardData = (e.clipboardData || window.clipboardData
+                );
+                return clipboardData.getData('text');
+            },
+            /**
+             * 该方法用于向剪切板内设置内容
+             * 
+             * @param e
+             * @param v
+             * @returns {boolean}
+             */
+            setClipboardText   : function (e, v) {
+                if (e.clipboardData) {
+                    return e.clipboardData.setData('text/plain', v);
+                } else if (window.clipboardData) {
+                    return window.clipboardData.setData('text', v);
                 }
             }
         }
