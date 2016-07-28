@@ -316,6 +316,36 @@
                 } else if (window.clipboardData) {
                     return window.clipboardData.setData('text', v);
                 }
+            },
+            /**
+             * 检测当前浏览器是否支持input的type="email"
+             *
+             * @returns {boolean}
+             */
+            isEmailSupported   : function () {
+                var input = document.createElement('input');
+                input.type = 'email';
+
+                return 'email' == input.type;
+            },
+            /**
+             * 检测当前浏览器是否支持input的type="url"
+             *
+             * @returns {boolean}
+             */
+            isUrlSupported     : function () {
+                var input = document.createElement('input');
+                input.type = 'url';
+
+                return 'url' == input.type;
+            },
+            /**
+             * 检测当前浏览器是否支持input的pattern属性
+             * 
+             * @returns {boolean}
+             */
+            isPatternSupported : function () {
+                return 'pattern' in document.createElement('input');
             }
         }
     }

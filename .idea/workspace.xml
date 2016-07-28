@@ -28,66 +28,84 @@
       <file leaf-file-name="OE.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/OE.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="307" column="14" selection-start-line="307" selection-start-column="14" selection-end-line="307" selection-end-column="14" />
+            <state relative-caret-position="440">
+              <caret line="343" column="15" selection-start-line="343" selection-start-column="15" selection-end-line="343" selection-end-column="15" />
               <folding>
                 <element signature="e#0#252#0" expanded="false" />
+                <element signature="e#309#426#0" expanded="false" />
                 <element signature="e#475#651#0" expanded="false" />
                 <element signature="e#554#606#0" expanded="false" />
+                <element signature="e#665#785#0" expanded="false" />
                 <element signature="e#834#1011#0" expanded="false" />
                 <element signature="e#914#966#0" expanded="false" />
+                <element signature="e#1025#1144#0" expanded="false" />
                 <element signature="e#1193#1370#0" expanded="false" />
                 <element signature="e#1273#1325#0" expanded="false" />
+                <element signature="e#1384#1503#0" expanded="false" />
                 <element signature="e#1552#1730#0" expanded="false" />
                 <element signature="e#1633#1685#0" expanded="false" />
+                <element signature="e#1744#1861#0" expanded="false" />
                 <element signature="e#1910#2087#0" expanded="false" />
                 <element signature="e#1990#2042#0" expanded="false" />
+                <element signature="e#2101#2143#0" expanded="false" />
                 <element signature="e#2192#2371#0" expanded="false" />
                 <element signature="e#2274#2326#0" expanded="false" />
+                <element signature="e#2385#2507#0" expanded="false" />
                 <element signature="e#2556#2696#0" expanded="false" />
                 <element signature="e#2594#2613#0" expanded="false" />
+                <element signature="e#2710#2857#0" expanded="false" />
                 <element signature="e#2910#3194#0" expanded="false" />
+                <element signature="e#2952#3024#0" expanded="false" />
+                <element signature="e#3049#3116#0" expanded="false" />
+                <element signature="e#3122#3180#0" expanded="false" />
+                <element signature="e#3208#3354#0" expanded="false" />
                 <element signature="e#3407#3693#0" expanded="false" />
                 <element signature="e#3452#3520#0" expanded="false" />
                 <element signature="e#3545#3612#0" expanded="false" />
                 <element signature="e#3618#3679#0" expanded="false" />
+                <element signature="e#3707#3855#0" expanded="false" />
                 <element signature="e#3902#3962#0" expanded="false" />
+                <element signature="e#3976#4112#0" expanded="false" />
                 <element signature="e#4159#4233#0" expanded="false" />
+                <element signature="e#4247#4408#0" expanded="false" />
                 <element signature="e#4455#4636#0" expanded="false" />
                 <element signature="e#4495#4554#0" expanded="false" />
                 <element signature="e#4560#4622#0" expanded="false" />
+                <element signature="e#4650#4789#0" expanded="false" />
                 <element signature="e#4836#5019#0" expanded="false" />
                 <element signature="e#4877#4937#0" expanded="false" />
                 <element signature="e#4943#5005#0" expanded="false" />
+                <element signature="e#5033#5268#0" expanded="false" />
                 <element signature="e#5315#5875#0" expanded="false" />
+                <element signature="e#5419#5570#0" expanded="false" />
+                <element signature="e#5599#5747#0" expanded="false" />
                 <element signature="e#5772#5860#0" expanded="false" />
+                <element signature="e#5889#6130#0" expanded="false" />
                 <element signature="e#6177#6815#0" expanded="false" />
                 <element signature="e#6553#6801#0" expanded="false" />
+                <element signature="e#6829#7050#0" expanded="false" />
                 <element signature="e#7097#7364#0" expanded="false" />
+                <element signature="e#7136#7199#0" expanded="false" />
+                <element signature="e#7224#7285#0" expanded="false" />
+                <element signature="e#7291#7350#0" expanded="false" />
+                <element signature="e#7378#7598#0" expanded="false" />
                 <element signature="e#7645#7917#0" expanded="false" />
+                <element signature="e#7681#7831#0" expanded="false" />
+                <element signature="e#7837#7903#0" expanded="false" />
+                <element signature="e#7931#8306#0" expanded="false" />
                 <element signature="e#8353#8541#0" expanded="false" />
+                <element signature="e#8406#8464#0" expanded="false" />
+                <element signature="e#8470#8527#0" expanded="false" />
+                <element signature="e#8555#8742#0" expanded="false" />
                 <element signature="e#8813#9247#0" expanded="false" />
+                <element signature="e#8858#8942#0" expanded="false" />
+                <element signature="e#8948#9233#0" expanded="false" />
+                <element signature="e#9261#9391#0" expanded="false" />
                 <element signature="e#9438#9603#0" expanded="false" />
+                <element signature="e#9617#9763#0" expanded="false" />
                 <element signature="e#9813#10073#0" expanded="false" />
-                <marker date="1469686431000" expanded="false" signature="309:426" ph="/** 检测是否为数组 ...*/" />
-                <marker date="1469686431000" expanded="false" signature="665:785" ph="/** 检测是否为字符串类型 ...*/" />
-                <marker date="1469686431000" expanded="false" signature="1025:1144" ph="/** 检测是否为数字类型 ...*/" />
-                <marker date="1469686431000" expanded="false" signature="1384:1503" ph="/** 检测是否为布尔类型 ...*/" />
-                <marker date="1469686431000" expanded="false" signature="1744:1861" ph="/** 检测是否为对象 ...*/" />
-                <marker date="1469686431000" expanded="false" signature="2101:2143" ph="/** 检测是否为函数 ...*/" />
-                <marker date="1469686431000" expanded="false" signature="2385:2507" ph="/** 创建一个使用给定对象作为原型的新对象 ...*/" />
-                <marker date="1469686431000" expanded="false" signature="2710:2857" ph="/** 给指定的元素添加事件监听 ...*/" />
-                <marker date="1469686431000" expanded="false" signature="3208:3354" ph="/** 移除指定元素的事件监听 ...*/" />
-                <marker date="1469686431000" expanded="false" signature="3707:3855" ph="/** 获取事件,IE中,DOM0级添加事件时,发生的事件event是window的一个属性 ...*/" />
-                <marker date="1469686431000" expanded="false" signature="3976:4112" ph="/** 获取事件发生元素, IE中使用srcElement表示事件发生的元素 ...*/" />
-                <marker date="1469686431000" expanded="false" signature="4650:4789" ph="/** 阻止冒泡事件,IE中可能不存在stopPropagation方法, ...*/" />
-                <marker date="1469686431000" expanded="false" signature="5033:5268" ph="/** IE8及更低版本不支持event.pageX和event.pageY, ...*/" />
-                <marker date="1469686431000" expanded="false" signature="5889:6130" ph="/** 该方法用于获取事件发生的坐标,包括视口位置、页面位置以及屏幕坐标位置 ...*/" />
-                <marker date="1469686431000" expanded="false" signature="6829:7050" ph="/** 获取relatedTarget, 兼容IE8 ...*/" />
-                <marker date="1469686431000" expanded="false" signature="7378:7598" ph="/** 获取wheelDelta, ...*/" />
-                <marker date="1469686431000" expanded="false" signature="7931:8306" ph="/** 获取按键的键码, ...*/" />
-                <marker date="1469686431000" expanded="false" signature="8555:8742" ph="/** 该方法用于选择指定文本框中指定位置的文本, ...*/" />
-                <marker date="1469686431000" expanded="false" signature="9261:9391" ph="/** 该方法用于在发生剪切版事件时获取剪切板中的内容 ...*/" />
+                <element signature="e#9852#9940#0" expanded="false" />
+                <element signature="e#9972#10059#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -96,8 +114,8 @@
       <file leaf-file-name="demo.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/demo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+            <state relative-caret-position="184">
+              <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -160,6 +178,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -208,8 +228,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -312,6 +330,7 @@
       <workItem from="1469438051351" duration="1459000" />
       <workItem from="1469497360328" duration="4697000" />
       <workItem from="1469585143394" duration="8010000" />
+      <workItem from="1469687302610" duration="1063000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize the OE.js and complete the documents.">
       <created>1467168370828</created>
@@ -324,14 +343,14 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31002000" />
+    <option name="totallyTimeSpent" value="32065000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3350144" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19668588" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -385,62 +404,80 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#252#0" expanded="false" />
+            <element signature="e#309#426#0" expanded="false" />
             <element signature="e#475#651#0" expanded="false" />
             <element signature="e#554#606#0" expanded="false" />
+            <element signature="e#665#785#0" expanded="false" />
             <element signature="e#834#1011#0" expanded="false" />
             <element signature="e#914#966#0" expanded="false" />
+            <element signature="e#1025#1144#0" expanded="false" />
             <element signature="e#1193#1370#0" expanded="false" />
             <element signature="e#1273#1325#0" expanded="false" />
+            <element signature="e#1384#1503#0" expanded="false" />
             <element signature="e#1552#1730#0" expanded="false" />
             <element signature="e#1633#1685#0" expanded="false" />
+            <element signature="e#1744#1861#0" expanded="false" />
             <element signature="e#1910#2087#0" expanded="false" />
             <element signature="e#1990#2042#0" expanded="false" />
+            <element signature="e#2101#2143#0" expanded="false" />
             <element signature="e#2192#2371#0" expanded="false" />
             <element signature="e#2274#2326#0" expanded="false" />
+            <element signature="e#2385#2507#0" expanded="false" />
             <element signature="e#2556#2696#0" expanded="false" />
             <element signature="e#2594#2613#0" expanded="false" />
+            <element signature="e#2710#2857#0" expanded="false" />
             <element signature="e#2910#3194#0" expanded="false" />
+            <element signature="e#2952#3024#0" expanded="false" />
+            <element signature="e#3049#3116#0" expanded="false" />
+            <element signature="e#3122#3180#0" expanded="false" />
+            <element signature="e#3208#3354#0" expanded="false" />
             <element signature="e#3407#3693#0" expanded="false" />
             <element signature="e#3452#3520#0" expanded="false" />
             <element signature="e#3545#3612#0" expanded="false" />
             <element signature="e#3618#3679#0" expanded="false" />
+            <element signature="e#3707#3855#0" expanded="false" />
             <element signature="e#3902#3962#0" expanded="false" />
+            <element signature="e#3976#4112#0" expanded="false" />
             <element signature="e#4159#4233#0" expanded="false" />
+            <element signature="e#4247#4408#0" expanded="false" />
             <element signature="e#4455#4636#0" expanded="false" />
             <element signature="e#4495#4554#0" expanded="false" />
             <element signature="e#4560#4622#0" expanded="false" />
+            <element signature="e#4650#4789#0" expanded="false" />
             <element signature="e#4836#5019#0" expanded="false" />
             <element signature="e#4877#4937#0" expanded="false" />
             <element signature="e#4943#5005#0" expanded="false" />
+            <element signature="e#5033#5268#0" expanded="false" />
             <element signature="e#5315#5875#0" expanded="false" />
+            <element signature="e#5419#5570#0" expanded="false" />
+            <element signature="e#5599#5747#0" expanded="false" />
             <element signature="e#5772#5860#0" expanded="false" />
+            <element signature="e#5889#6130#0" expanded="false" />
             <element signature="e#6177#6815#0" expanded="false" />
             <element signature="e#6553#6801#0" expanded="false" />
+            <element signature="e#6829#7050#0" expanded="false" />
             <element signature="e#7097#7364#0" expanded="false" />
+            <element signature="e#7136#7199#0" expanded="false" />
+            <element signature="e#7224#7285#0" expanded="false" />
+            <element signature="e#7291#7350#0" expanded="false" />
+            <element signature="e#7378#7598#0" expanded="false" />
             <element signature="e#7645#7917#0" expanded="false" />
+            <element signature="e#7681#7831#0" expanded="false" />
+            <element signature="e#7837#7903#0" expanded="false" />
+            <element signature="e#7931#8306#0" expanded="false" />
             <element signature="e#8353#8541#0" expanded="false" />
+            <element signature="e#8406#8464#0" expanded="false" />
+            <element signature="e#8470#8527#0" expanded="false" />
+            <element signature="e#8555#8742#0" expanded="false" />
             <element signature="e#8813#9247#0" expanded="false" />
+            <element signature="e#8858#8942#0" expanded="false" />
+            <element signature="e#8948#9233#0" expanded="false" />
+            <element signature="e#9261#9391#0" expanded="false" />
             <element signature="e#9438#9603#0" expanded="false" />
+            <element signature="e#9617#9763#0" expanded="false" />
             <element signature="e#9813#10073#0" expanded="false" />
-            <marker date="1469686431000" expanded="false" signature="309:426" ph="/** 检测是否为数组 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="665:785" ph="/** 检测是否为字符串类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1025:1144" ph="/** 检测是否为数字类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1384:1503" ph="/** 检测是否为布尔类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1744:1861" ph="/** 检测是否为对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2101:2143" ph="/** 检测是否为函数 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2385:2507" ph="/** 创建一个使用给定对象作为原型的新对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2710:2857" ph="/** 给指定的元素添加事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3208:3354" ph="/** 移除指定元素的事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3707:3855" ph="/** 获取事件,IE中,DOM0级添加事件时,发生的事件event是window的一个属性 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3976:4112" ph="/** 获取事件发生元素, IE中使用srcElement表示事件发生的元素 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="4650:4789" ph="/** 阻止冒泡事件,IE中可能不存在stopPropagation方法, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5033:5268" ph="/** IE8及更低版本不支持event.pageX和event.pageY, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5889:6130" ph="/** 该方法用于获取事件发生的坐标,包括视口位置、页面位置以及屏幕坐标位置 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="6829:7050" ph="/** 获取relatedTarget, 兼容IE8 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7378:7598" ph="/** 获取wheelDelta, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7931:8306" ph="/** 获取按键的键码, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="8555:8742" ph="/** 该方法用于选择指定文本框中指定位置的文本, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="9261:9391" ph="/** 该方法用于在发生剪切版事件时获取剪切板中的内容 ...*/" />
+            <element signature="e#9852#9940#0" expanded="false" />
+            <element signature="e#9972#10059#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -459,62 +496,80 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#252#0" expanded="false" />
+            <element signature="e#309#426#0" expanded="false" />
             <element signature="e#475#651#0" expanded="false" />
             <element signature="e#554#606#0" expanded="false" />
+            <element signature="e#665#785#0" expanded="false" />
             <element signature="e#834#1011#0" expanded="false" />
             <element signature="e#914#966#0" expanded="false" />
+            <element signature="e#1025#1144#0" expanded="false" />
             <element signature="e#1193#1370#0" expanded="false" />
             <element signature="e#1273#1325#0" expanded="false" />
+            <element signature="e#1384#1503#0" expanded="false" />
             <element signature="e#1552#1730#0" expanded="false" />
             <element signature="e#1633#1685#0" expanded="false" />
+            <element signature="e#1744#1861#0" expanded="false" />
             <element signature="e#1910#2087#0" expanded="false" />
             <element signature="e#1990#2042#0" expanded="false" />
+            <element signature="e#2101#2143#0" expanded="false" />
             <element signature="e#2192#2371#0" expanded="false" />
             <element signature="e#2274#2326#0" expanded="false" />
+            <element signature="e#2385#2507#0" expanded="false" />
             <element signature="e#2556#2696#0" expanded="false" />
             <element signature="e#2594#2613#0" expanded="false" />
+            <element signature="e#2710#2857#0" expanded="false" />
             <element signature="e#2910#3194#0" expanded="false" />
+            <element signature="e#2952#3024#0" expanded="false" />
+            <element signature="e#3049#3116#0" expanded="false" />
+            <element signature="e#3122#3180#0" expanded="false" />
+            <element signature="e#3208#3354#0" expanded="false" />
             <element signature="e#3407#3693#0" expanded="false" />
             <element signature="e#3452#3520#0" expanded="false" />
             <element signature="e#3545#3612#0" expanded="false" />
             <element signature="e#3618#3679#0" expanded="false" />
+            <element signature="e#3707#3855#0" expanded="false" />
             <element signature="e#3902#3962#0" expanded="false" />
+            <element signature="e#3976#4112#0" expanded="false" />
             <element signature="e#4159#4233#0" expanded="false" />
+            <element signature="e#4247#4408#0" expanded="false" />
             <element signature="e#4455#4636#0" expanded="false" />
             <element signature="e#4495#4554#0" expanded="false" />
             <element signature="e#4560#4622#0" expanded="false" />
+            <element signature="e#4650#4789#0" expanded="false" />
             <element signature="e#4836#5019#0" expanded="false" />
             <element signature="e#4877#4937#0" expanded="false" />
             <element signature="e#4943#5005#0" expanded="false" />
+            <element signature="e#5033#5268#0" expanded="false" />
             <element signature="e#5315#5875#0" expanded="false" />
+            <element signature="e#5419#5570#0" expanded="false" />
+            <element signature="e#5599#5747#0" expanded="false" />
             <element signature="e#5772#5860#0" expanded="false" />
+            <element signature="e#5889#6130#0" expanded="false" />
             <element signature="e#6177#6815#0" expanded="false" />
             <element signature="e#6553#6801#0" expanded="false" />
+            <element signature="e#6829#7050#0" expanded="false" />
             <element signature="e#7097#7364#0" expanded="false" />
+            <element signature="e#7136#7199#0" expanded="false" />
+            <element signature="e#7224#7285#0" expanded="false" />
+            <element signature="e#7291#7350#0" expanded="false" />
+            <element signature="e#7378#7598#0" expanded="false" />
             <element signature="e#7645#7917#0" expanded="false" />
+            <element signature="e#7681#7831#0" expanded="false" />
+            <element signature="e#7837#7903#0" expanded="false" />
+            <element signature="e#7931#8306#0" expanded="false" />
             <element signature="e#8353#8541#0" expanded="false" />
+            <element signature="e#8406#8464#0" expanded="false" />
+            <element signature="e#8470#8527#0" expanded="false" />
+            <element signature="e#8555#8742#0" expanded="false" />
             <element signature="e#8813#9247#0" expanded="false" />
+            <element signature="e#8858#8942#0" expanded="false" />
+            <element signature="e#8948#9233#0" expanded="false" />
+            <element signature="e#9261#9391#0" expanded="false" />
             <element signature="e#9438#9603#0" expanded="false" />
+            <element signature="e#9617#9763#0" expanded="false" />
             <element signature="e#9813#10073#0" expanded="false" />
-            <marker date="1469686431000" expanded="false" signature="309:426" ph="/** 检测是否为数组 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="665:785" ph="/** 检测是否为字符串类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1025:1144" ph="/** 检测是否为数字类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1384:1503" ph="/** 检测是否为布尔类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1744:1861" ph="/** 检测是否为对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2101:2143" ph="/** 检测是否为函数 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2385:2507" ph="/** 创建一个使用给定对象作为原型的新对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2710:2857" ph="/** 给指定的元素添加事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3208:3354" ph="/** 移除指定元素的事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3707:3855" ph="/** 获取事件,IE中,DOM0级添加事件时,发生的事件event是window的一个属性 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3976:4112" ph="/** 获取事件发生元素, IE中使用srcElement表示事件发生的元素 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="4650:4789" ph="/** 阻止冒泡事件,IE中可能不存在stopPropagation方法, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5033:5268" ph="/** IE8及更低版本不支持event.pageX和event.pageY, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5889:6130" ph="/** 该方法用于获取事件发生的坐标,包括视口位置、页面位置以及屏幕坐标位置 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="6829:7050" ph="/** 获取relatedTarget, 兼容IE8 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7378:7598" ph="/** 获取wheelDelta, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7931:8306" ph="/** 获取按键的键码, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="8555:8742" ph="/** 该方法用于选择指定文本框中指定位置的文本, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="9261:9391" ph="/** 该方法用于在发生剪切版事件时获取剪切板中的内容 ...*/" />
+            <element signature="e#9852#9940#0" expanded="false" />
+            <element signature="e#9972#10059#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -533,62 +588,80 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#252#0" expanded="false" />
+            <element signature="e#309#426#0" expanded="false" />
             <element signature="e#475#651#0" expanded="false" />
             <element signature="e#554#606#0" expanded="false" />
+            <element signature="e#665#785#0" expanded="false" />
             <element signature="e#834#1011#0" expanded="false" />
             <element signature="e#914#966#0" expanded="false" />
+            <element signature="e#1025#1144#0" expanded="false" />
             <element signature="e#1193#1370#0" expanded="false" />
             <element signature="e#1273#1325#0" expanded="false" />
+            <element signature="e#1384#1503#0" expanded="false" />
             <element signature="e#1552#1730#0" expanded="false" />
             <element signature="e#1633#1685#0" expanded="false" />
+            <element signature="e#1744#1861#0" expanded="false" />
             <element signature="e#1910#2087#0" expanded="false" />
             <element signature="e#1990#2042#0" expanded="false" />
+            <element signature="e#2101#2143#0" expanded="false" />
             <element signature="e#2192#2371#0" expanded="false" />
             <element signature="e#2274#2326#0" expanded="false" />
+            <element signature="e#2385#2507#0" expanded="false" />
             <element signature="e#2556#2696#0" expanded="false" />
             <element signature="e#2594#2613#0" expanded="false" />
+            <element signature="e#2710#2857#0" expanded="false" />
             <element signature="e#2910#3194#0" expanded="false" />
+            <element signature="e#2952#3024#0" expanded="false" />
+            <element signature="e#3049#3116#0" expanded="false" />
+            <element signature="e#3122#3180#0" expanded="false" />
+            <element signature="e#3208#3354#0" expanded="false" />
             <element signature="e#3407#3693#0" expanded="false" />
             <element signature="e#3452#3520#0" expanded="false" />
             <element signature="e#3545#3612#0" expanded="false" />
             <element signature="e#3618#3679#0" expanded="false" />
+            <element signature="e#3707#3855#0" expanded="false" />
             <element signature="e#3902#3962#0" expanded="false" />
+            <element signature="e#3976#4112#0" expanded="false" />
             <element signature="e#4159#4233#0" expanded="false" />
+            <element signature="e#4247#4408#0" expanded="false" />
             <element signature="e#4455#4636#0" expanded="false" />
             <element signature="e#4495#4554#0" expanded="false" />
             <element signature="e#4560#4622#0" expanded="false" />
+            <element signature="e#4650#4789#0" expanded="false" />
             <element signature="e#4836#5019#0" expanded="false" />
             <element signature="e#4877#4937#0" expanded="false" />
             <element signature="e#4943#5005#0" expanded="false" />
+            <element signature="e#5033#5268#0" expanded="false" />
             <element signature="e#5315#5875#0" expanded="false" />
+            <element signature="e#5419#5570#0" expanded="false" />
+            <element signature="e#5599#5747#0" expanded="false" />
             <element signature="e#5772#5860#0" expanded="false" />
+            <element signature="e#5889#6130#0" expanded="false" />
             <element signature="e#6177#6815#0" expanded="false" />
             <element signature="e#6553#6801#0" expanded="false" />
+            <element signature="e#6829#7050#0" expanded="false" />
             <element signature="e#7097#7364#0" expanded="false" />
+            <element signature="e#7136#7199#0" expanded="false" />
+            <element signature="e#7224#7285#0" expanded="false" />
+            <element signature="e#7291#7350#0" expanded="false" />
+            <element signature="e#7378#7598#0" expanded="false" />
             <element signature="e#7645#7917#0" expanded="false" />
+            <element signature="e#7681#7831#0" expanded="false" />
+            <element signature="e#7837#7903#0" expanded="false" />
+            <element signature="e#7931#8306#0" expanded="false" />
             <element signature="e#8353#8541#0" expanded="false" />
+            <element signature="e#8406#8464#0" expanded="false" />
+            <element signature="e#8470#8527#0" expanded="false" />
+            <element signature="e#8555#8742#0" expanded="false" />
             <element signature="e#8813#9247#0" expanded="false" />
+            <element signature="e#8858#8942#0" expanded="false" />
+            <element signature="e#8948#9233#0" expanded="false" />
+            <element signature="e#9261#9391#0" expanded="false" />
             <element signature="e#9438#9603#0" expanded="false" />
+            <element signature="e#9617#9763#0" expanded="false" />
             <element signature="e#9813#10073#0" expanded="false" />
-            <marker date="1469686431000" expanded="false" signature="309:426" ph="/** 检测是否为数组 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="665:785" ph="/** 检测是否为字符串类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1025:1144" ph="/** 检测是否为数字类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1384:1503" ph="/** 检测是否为布尔类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1744:1861" ph="/** 检测是否为对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2101:2143" ph="/** 检测是否为函数 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2385:2507" ph="/** 创建一个使用给定对象作为原型的新对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2710:2857" ph="/** 给指定的元素添加事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3208:3354" ph="/** 移除指定元素的事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3707:3855" ph="/** 获取事件,IE中,DOM0级添加事件时,发生的事件event是window的一个属性 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3976:4112" ph="/** 获取事件发生元素, IE中使用srcElement表示事件发生的元素 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="4650:4789" ph="/** 阻止冒泡事件,IE中可能不存在stopPropagation方法, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5033:5268" ph="/** IE8及更低版本不支持event.pageX和event.pageY, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5889:6130" ph="/** 该方法用于获取事件发生的坐标,包括视口位置、页面位置以及屏幕坐标位置 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="6829:7050" ph="/** 获取relatedTarget, 兼容IE8 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7378:7598" ph="/** 获取wheelDelta, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7931:8306" ph="/** 获取按键的键码, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="8555:8742" ph="/** 该方法用于选择指定文本框中指定位置的文本, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="9261:9391" ph="/** 该方法用于在发生剪切版事件时获取剪切板中的内容 ...*/" />
+            <element signature="e#9852#9940#0" expanded="false" />
+            <element signature="e#9972#10059#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -607,62 +680,80 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#252#0" expanded="false" />
+            <element signature="e#309#426#0" expanded="false" />
             <element signature="e#475#651#0" expanded="false" />
             <element signature="e#554#606#0" expanded="false" />
+            <element signature="e#665#785#0" expanded="false" />
             <element signature="e#834#1011#0" expanded="false" />
             <element signature="e#914#966#0" expanded="false" />
+            <element signature="e#1025#1144#0" expanded="false" />
             <element signature="e#1193#1370#0" expanded="false" />
             <element signature="e#1273#1325#0" expanded="false" />
+            <element signature="e#1384#1503#0" expanded="false" />
             <element signature="e#1552#1730#0" expanded="false" />
             <element signature="e#1633#1685#0" expanded="false" />
+            <element signature="e#1744#1861#0" expanded="false" />
             <element signature="e#1910#2087#0" expanded="false" />
             <element signature="e#1990#2042#0" expanded="false" />
+            <element signature="e#2101#2143#0" expanded="false" />
             <element signature="e#2192#2371#0" expanded="false" />
             <element signature="e#2274#2326#0" expanded="false" />
+            <element signature="e#2385#2507#0" expanded="false" />
             <element signature="e#2556#2696#0" expanded="false" />
             <element signature="e#2594#2613#0" expanded="false" />
+            <element signature="e#2710#2857#0" expanded="false" />
             <element signature="e#2910#3194#0" expanded="false" />
+            <element signature="e#2952#3024#0" expanded="false" />
+            <element signature="e#3049#3116#0" expanded="false" />
+            <element signature="e#3122#3180#0" expanded="false" />
+            <element signature="e#3208#3354#0" expanded="false" />
             <element signature="e#3407#3693#0" expanded="false" />
             <element signature="e#3452#3520#0" expanded="false" />
             <element signature="e#3545#3612#0" expanded="false" />
             <element signature="e#3618#3679#0" expanded="false" />
+            <element signature="e#3707#3855#0" expanded="false" />
             <element signature="e#3902#3962#0" expanded="false" />
+            <element signature="e#3976#4112#0" expanded="false" />
             <element signature="e#4159#4233#0" expanded="false" />
+            <element signature="e#4247#4408#0" expanded="false" />
             <element signature="e#4455#4636#0" expanded="false" />
             <element signature="e#4495#4554#0" expanded="false" />
             <element signature="e#4560#4622#0" expanded="false" />
+            <element signature="e#4650#4789#0" expanded="false" />
             <element signature="e#4836#5019#0" expanded="false" />
             <element signature="e#4877#4937#0" expanded="false" />
             <element signature="e#4943#5005#0" expanded="false" />
+            <element signature="e#5033#5268#0" expanded="false" />
             <element signature="e#5315#5875#0" expanded="false" />
+            <element signature="e#5419#5570#0" expanded="false" />
+            <element signature="e#5599#5747#0" expanded="false" />
             <element signature="e#5772#5860#0" expanded="false" />
+            <element signature="e#5889#6130#0" expanded="false" />
             <element signature="e#6177#6815#0" expanded="false" />
             <element signature="e#6553#6801#0" expanded="false" />
+            <element signature="e#6829#7050#0" expanded="false" />
             <element signature="e#7097#7364#0" expanded="false" />
+            <element signature="e#7136#7199#0" expanded="false" />
+            <element signature="e#7224#7285#0" expanded="false" />
+            <element signature="e#7291#7350#0" expanded="false" />
+            <element signature="e#7378#7598#0" expanded="false" />
             <element signature="e#7645#7917#0" expanded="false" />
+            <element signature="e#7681#7831#0" expanded="false" />
+            <element signature="e#7837#7903#0" expanded="false" />
+            <element signature="e#7931#8306#0" expanded="false" />
             <element signature="e#8353#8541#0" expanded="false" />
+            <element signature="e#8406#8464#0" expanded="false" />
+            <element signature="e#8470#8527#0" expanded="false" />
+            <element signature="e#8555#8742#0" expanded="false" />
             <element signature="e#8813#9247#0" expanded="false" />
+            <element signature="e#8858#8942#0" expanded="false" />
+            <element signature="e#8948#9233#0" expanded="false" />
+            <element signature="e#9261#9391#0" expanded="false" />
             <element signature="e#9438#9603#0" expanded="false" />
+            <element signature="e#9617#9763#0" expanded="false" />
             <element signature="e#9813#10073#0" expanded="false" />
-            <marker date="1469686431000" expanded="false" signature="309:426" ph="/** 检测是否为数组 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="665:785" ph="/** 检测是否为字符串类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1025:1144" ph="/** 检测是否为数字类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1384:1503" ph="/** 检测是否为布尔类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1744:1861" ph="/** 检测是否为对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2101:2143" ph="/** 检测是否为函数 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2385:2507" ph="/** 创建一个使用给定对象作为原型的新对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2710:2857" ph="/** 给指定的元素添加事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3208:3354" ph="/** 移除指定元素的事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3707:3855" ph="/** 获取事件,IE中,DOM0级添加事件时,发生的事件event是window的一个属性 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3976:4112" ph="/** 获取事件发生元素, IE中使用srcElement表示事件发生的元素 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="4650:4789" ph="/** 阻止冒泡事件,IE中可能不存在stopPropagation方法, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5033:5268" ph="/** IE8及更低版本不支持event.pageX和event.pageY, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5889:6130" ph="/** 该方法用于获取事件发生的坐标,包括视口位置、页面位置以及屏幕坐标位置 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="6829:7050" ph="/** 获取relatedTarget, 兼容IE8 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7378:7598" ph="/** 获取wheelDelta, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7931:8306" ph="/** 获取按键的键码, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="8555:8742" ph="/** 该方法用于选择指定文本框中指定位置的文本, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="9261:9391" ph="/** 该方法用于在发生剪切版事件时获取剪切板中的内容 ...*/" />
+            <element signature="e#9852#9940#0" expanded="false" />
+            <element signature="e#9972#10059#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -681,62 +772,80 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#252#0" expanded="false" />
+            <element signature="e#309#426#0" expanded="false" />
             <element signature="e#475#651#0" expanded="false" />
             <element signature="e#554#606#0" expanded="false" />
+            <element signature="e#665#785#0" expanded="false" />
             <element signature="e#834#1011#0" expanded="false" />
             <element signature="e#914#966#0" expanded="false" />
+            <element signature="e#1025#1144#0" expanded="false" />
             <element signature="e#1193#1370#0" expanded="false" />
             <element signature="e#1273#1325#0" expanded="false" />
+            <element signature="e#1384#1503#0" expanded="false" />
             <element signature="e#1552#1730#0" expanded="false" />
             <element signature="e#1633#1685#0" expanded="false" />
+            <element signature="e#1744#1861#0" expanded="false" />
             <element signature="e#1910#2087#0" expanded="false" />
             <element signature="e#1990#2042#0" expanded="false" />
+            <element signature="e#2101#2143#0" expanded="false" />
             <element signature="e#2192#2371#0" expanded="false" />
             <element signature="e#2274#2326#0" expanded="false" />
+            <element signature="e#2385#2507#0" expanded="false" />
             <element signature="e#2556#2696#0" expanded="false" />
             <element signature="e#2594#2613#0" expanded="false" />
+            <element signature="e#2710#2857#0" expanded="false" />
             <element signature="e#2910#3194#0" expanded="false" />
+            <element signature="e#2952#3024#0" expanded="false" />
+            <element signature="e#3049#3116#0" expanded="false" />
+            <element signature="e#3122#3180#0" expanded="false" />
+            <element signature="e#3208#3354#0" expanded="false" />
             <element signature="e#3407#3693#0" expanded="false" />
             <element signature="e#3452#3520#0" expanded="false" />
             <element signature="e#3545#3612#0" expanded="false" />
             <element signature="e#3618#3679#0" expanded="false" />
+            <element signature="e#3707#3855#0" expanded="false" />
             <element signature="e#3902#3962#0" expanded="false" />
+            <element signature="e#3976#4112#0" expanded="false" />
             <element signature="e#4159#4233#0" expanded="false" />
+            <element signature="e#4247#4408#0" expanded="false" />
             <element signature="e#4455#4636#0" expanded="false" />
             <element signature="e#4495#4554#0" expanded="false" />
             <element signature="e#4560#4622#0" expanded="false" />
+            <element signature="e#4650#4789#0" expanded="false" />
             <element signature="e#4836#5019#0" expanded="false" />
             <element signature="e#4877#4937#0" expanded="false" />
             <element signature="e#4943#5005#0" expanded="false" />
+            <element signature="e#5033#5268#0" expanded="false" />
             <element signature="e#5315#5875#0" expanded="false" />
+            <element signature="e#5419#5570#0" expanded="false" />
+            <element signature="e#5599#5747#0" expanded="false" />
             <element signature="e#5772#5860#0" expanded="false" />
+            <element signature="e#5889#6130#0" expanded="false" />
             <element signature="e#6177#6815#0" expanded="false" />
             <element signature="e#6553#6801#0" expanded="false" />
+            <element signature="e#6829#7050#0" expanded="false" />
             <element signature="e#7097#7364#0" expanded="false" />
+            <element signature="e#7136#7199#0" expanded="false" />
+            <element signature="e#7224#7285#0" expanded="false" />
+            <element signature="e#7291#7350#0" expanded="false" />
+            <element signature="e#7378#7598#0" expanded="false" />
             <element signature="e#7645#7917#0" expanded="false" />
+            <element signature="e#7681#7831#0" expanded="false" />
+            <element signature="e#7837#7903#0" expanded="false" />
+            <element signature="e#7931#8306#0" expanded="false" />
             <element signature="e#8353#8541#0" expanded="false" />
+            <element signature="e#8406#8464#0" expanded="false" />
+            <element signature="e#8470#8527#0" expanded="false" />
+            <element signature="e#8555#8742#0" expanded="false" />
             <element signature="e#8813#9247#0" expanded="false" />
+            <element signature="e#8858#8942#0" expanded="false" />
+            <element signature="e#8948#9233#0" expanded="false" />
+            <element signature="e#9261#9391#0" expanded="false" />
             <element signature="e#9438#9603#0" expanded="false" />
+            <element signature="e#9617#9763#0" expanded="false" />
             <element signature="e#9813#10073#0" expanded="false" />
-            <marker date="1469686431000" expanded="false" signature="309:426" ph="/** 检测是否为数组 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="665:785" ph="/** 检测是否为字符串类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1025:1144" ph="/** 检测是否为数字类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1384:1503" ph="/** 检测是否为布尔类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1744:1861" ph="/** 检测是否为对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2101:2143" ph="/** 检测是否为函数 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2385:2507" ph="/** 创建一个使用给定对象作为原型的新对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2710:2857" ph="/** 给指定的元素添加事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3208:3354" ph="/** 移除指定元素的事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3707:3855" ph="/** 获取事件,IE中,DOM0级添加事件时,发生的事件event是window的一个属性 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3976:4112" ph="/** 获取事件发生元素, IE中使用srcElement表示事件发生的元素 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="4650:4789" ph="/** 阻止冒泡事件,IE中可能不存在stopPropagation方法, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5033:5268" ph="/** IE8及更低版本不支持event.pageX和event.pageY, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5889:6130" ph="/** 该方法用于获取事件发生的坐标,包括视口位置、页面位置以及屏幕坐标位置 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="6829:7050" ph="/** 获取relatedTarget, 兼容IE8 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7378:7598" ph="/** 获取wheelDelta, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7931:8306" ph="/** 获取按键的键码, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="8555:8742" ph="/** 该方法用于选择指定文本框中指定位置的文本, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="9261:9391" ph="/** 该方法用于在发生剪切版事件时获取剪切板中的内容 ...*/" />
+            <element signature="e#9852#9940#0" expanded="false" />
+            <element signature="e#9972#10059#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -755,62 +864,80 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#252#0" expanded="false" />
+            <element signature="e#309#426#0" expanded="false" />
             <element signature="e#475#651#0" expanded="false" />
             <element signature="e#554#606#0" expanded="false" />
+            <element signature="e#665#785#0" expanded="false" />
             <element signature="e#834#1011#0" expanded="false" />
             <element signature="e#914#966#0" expanded="false" />
+            <element signature="e#1025#1144#0" expanded="false" />
             <element signature="e#1193#1370#0" expanded="false" />
             <element signature="e#1273#1325#0" expanded="false" />
+            <element signature="e#1384#1503#0" expanded="false" />
             <element signature="e#1552#1730#0" expanded="false" />
             <element signature="e#1633#1685#0" expanded="false" />
+            <element signature="e#1744#1861#0" expanded="false" />
             <element signature="e#1910#2087#0" expanded="false" />
             <element signature="e#1990#2042#0" expanded="false" />
+            <element signature="e#2101#2143#0" expanded="false" />
             <element signature="e#2192#2371#0" expanded="false" />
             <element signature="e#2274#2326#0" expanded="false" />
+            <element signature="e#2385#2507#0" expanded="false" />
             <element signature="e#2556#2696#0" expanded="false" />
             <element signature="e#2594#2613#0" expanded="false" />
+            <element signature="e#2710#2857#0" expanded="false" />
             <element signature="e#2910#3194#0" expanded="false" />
+            <element signature="e#2952#3024#0" expanded="false" />
+            <element signature="e#3049#3116#0" expanded="false" />
+            <element signature="e#3122#3180#0" expanded="false" />
+            <element signature="e#3208#3354#0" expanded="false" />
             <element signature="e#3407#3693#0" expanded="false" />
             <element signature="e#3452#3520#0" expanded="false" />
             <element signature="e#3545#3612#0" expanded="false" />
             <element signature="e#3618#3679#0" expanded="false" />
+            <element signature="e#3707#3855#0" expanded="false" />
             <element signature="e#3902#3962#0" expanded="false" />
+            <element signature="e#3976#4112#0" expanded="false" />
             <element signature="e#4159#4233#0" expanded="false" />
+            <element signature="e#4247#4408#0" expanded="false" />
             <element signature="e#4455#4636#0" expanded="false" />
             <element signature="e#4495#4554#0" expanded="false" />
             <element signature="e#4560#4622#0" expanded="false" />
+            <element signature="e#4650#4789#0" expanded="false" />
             <element signature="e#4836#5019#0" expanded="false" />
             <element signature="e#4877#4937#0" expanded="false" />
             <element signature="e#4943#5005#0" expanded="false" />
+            <element signature="e#5033#5268#0" expanded="false" />
             <element signature="e#5315#5875#0" expanded="false" />
+            <element signature="e#5419#5570#0" expanded="false" />
+            <element signature="e#5599#5747#0" expanded="false" />
             <element signature="e#5772#5860#0" expanded="false" />
+            <element signature="e#5889#6130#0" expanded="false" />
             <element signature="e#6177#6815#0" expanded="false" />
             <element signature="e#6553#6801#0" expanded="false" />
+            <element signature="e#6829#7050#0" expanded="false" />
             <element signature="e#7097#7364#0" expanded="false" />
+            <element signature="e#7136#7199#0" expanded="false" />
+            <element signature="e#7224#7285#0" expanded="false" />
+            <element signature="e#7291#7350#0" expanded="false" />
+            <element signature="e#7378#7598#0" expanded="false" />
             <element signature="e#7645#7917#0" expanded="false" />
+            <element signature="e#7681#7831#0" expanded="false" />
+            <element signature="e#7837#7903#0" expanded="false" />
+            <element signature="e#7931#8306#0" expanded="false" />
             <element signature="e#8353#8541#0" expanded="false" />
+            <element signature="e#8406#8464#0" expanded="false" />
+            <element signature="e#8470#8527#0" expanded="false" />
+            <element signature="e#8555#8742#0" expanded="false" />
             <element signature="e#8813#9247#0" expanded="false" />
+            <element signature="e#8858#8942#0" expanded="false" />
+            <element signature="e#8948#9233#0" expanded="false" />
+            <element signature="e#9261#9391#0" expanded="false" />
             <element signature="e#9438#9603#0" expanded="false" />
+            <element signature="e#9617#9763#0" expanded="false" />
             <element signature="e#9813#10073#0" expanded="false" />
-            <marker date="1469686431000" expanded="false" signature="309:426" ph="/** 检测是否为数组 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="665:785" ph="/** 检测是否为字符串类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1025:1144" ph="/** 检测是否为数字类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1384:1503" ph="/** 检测是否为布尔类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1744:1861" ph="/** 检测是否为对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2101:2143" ph="/** 检测是否为函数 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2385:2507" ph="/** 创建一个使用给定对象作为原型的新对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2710:2857" ph="/** 给指定的元素添加事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3208:3354" ph="/** 移除指定元素的事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3707:3855" ph="/** 获取事件,IE中,DOM0级添加事件时,发生的事件event是window的一个属性 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3976:4112" ph="/** 获取事件发生元素, IE中使用srcElement表示事件发生的元素 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="4650:4789" ph="/** 阻止冒泡事件,IE中可能不存在stopPropagation方法, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5033:5268" ph="/** IE8及更低版本不支持event.pageX和event.pageY, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5889:6130" ph="/** 该方法用于获取事件发生的坐标,包括视口位置、页面位置以及屏幕坐标位置 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="6829:7050" ph="/** 获取relatedTarget, 兼容IE8 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7378:7598" ph="/** 获取wheelDelta, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7931:8306" ph="/** 获取按键的键码, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="8555:8742" ph="/** 该方法用于选择指定文本框中指定位置的文本, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="9261:9391" ph="/** 该方法用于在发生剪切版事件时获取剪切板中的内容 ...*/" />
+            <element signature="e#9852#9940#0" expanded="false" />
+            <element signature="e#9972#10059#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -829,62 +956,80 @@
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
             <element signature="e#0#252#0" expanded="false" />
+            <element signature="e#309#426#0" expanded="false" />
             <element signature="e#475#651#0" expanded="false" />
             <element signature="e#554#606#0" expanded="false" />
+            <element signature="e#665#785#0" expanded="false" />
             <element signature="e#834#1011#0" expanded="false" />
             <element signature="e#914#966#0" expanded="false" />
+            <element signature="e#1025#1144#0" expanded="false" />
             <element signature="e#1193#1370#0" expanded="false" />
             <element signature="e#1273#1325#0" expanded="false" />
+            <element signature="e#1384#1503#0" expanded="false" />
             <element signature="e#1552#1730#0" expanded="false" />
             <element signature="e#1633#1685#0" expanded="false" />
+            <element signature="e#1744#1861#0" expanded="false" />
             <element signature="e#1910#2087#0" expanded="false" />
             <element signature="e#1990#2042#0" expanded="false" />
+            <element signature="e#2101#2143#0" expanded="false" />
             <element signature="e#2192#2371#0" expanded="false" />
             <element signature="e#2274#2326#0" expanded="false" />
+            <element signature="e#2385#2507#0" expanded="false" />
             <element signature="e#2556#2696#0" expanded="false" />
             <element signature="e#2594#2613#0" expanded="false" />
+            <element signature="e#2710#2857#0" expanded="false" />
             <element signature="e#2910#3194#0" expanded="false" />
+            <element signature="e#2952#3024#0" expanded="false" />
+            <element signature="e#3049#3116#0" expanded="false" />
+            <element signature="e#3122#3180#0" expanded="false" />
+            <element signature="e#3208#3354#0" expanded="false" />
             <element signature="e#3407#3693#0" expanded="false" />
             <element signature="e#3452#3520#0" expanded="false" />
             <element signature="e#3545#3612#0" expanded="false" />
             <element signature="e#3618#3679#0" expanded="false" />
+            <element signature="e#3707#3855#0" expanded="false" />
             <element signature="e#3902#3962#0" expanded="false" />
+            <element signature="e#3976#4112#0" expanded="false" />
             <element signature="e#4159#4233#0" expanded="false" />
+            <element signature="e#4247#4408#0" expanded="false" />
             <element signature="e#4455#4636#0" expanded="false" />
             <element signature="e#4495#4554#0" expanded="false" />
             <element signature="e#4560#4622#0" expanded="false" />
+            <element signature="e#4650#4789#0" expanded="false" />
             <element signature="e#4836#5019#0" expanded="false" />
             <element signature="e#4877#4937#0" expanded="false" />
             <element signature="e#4943#5005#0" expanded="false" />
+            <element signature="e#5033#5268#0" expanded="false" />
             <element signature="e#5315#5875#0" expanded="false" />
+            <element signature="e#5419#5570#0" expanded="false" />
+            <element signature="e#5599#5747#0" expanded="false" />
             <element signature="e#5772#5860#0" expanded="false" />
+            <element signature="e#5889#6130#0" expanded="false" />
             <element signature="e#6177#6815#0" expanded="false" />
             <element signature="e#6553#6801#0" expanded="false" />
+            <element signature="e#6829#7050#0" expanded="false" />
             <element signature="e#7097#7364#0" expanded="false" />
+            <element signature="e#7136#7199#0" expanded="false" />
+            <element signature="e#7224#7285#0" expanded="false" />
+            <element signature="e#7291#7350#0" expanded="false" />
+            <element signature="e#7378#7598#0" expanded="false" />
             <element signature="e#7645#7917#0" expanded="false" />
+            <element signature="e#7681#7831#0" expanded="false" />
+            <element signature="e#7837#7903#0" expanded="false" />
+            <element signature="e#7931#8306#0" expanded="false" />
             <element signature="e#8353#8541#0" expanded="false" />
+            <element signature="e#8406#8464#0" expanded="false" />
+            <element signature="e#8470#8527#0" expanded="false" />
+            <element signature="e#8555#8742#0" expanded="false" />
             <element signature="e#8813#9247#0" expanded="false" />
+            <element signature="e#8858#8942#0" expanded="false" />
+            <element signature="e#8948#9233#0" expanded="false" />
+            <element signature="e#9261#9391#0" expanded="false" />
             <element signature="e#9438#9603#0" expanded="false" />
+            <element signature="e#9617#9763#0" expanded="false" />
             <element signature="e#9813#10073#0" expanded="false" />
-            <marker date="1469686431000" expanded="false" signature="309:426" ph="/** 检测是否为数组 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="665:785" ph="/** 检测是否为字符串类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1025:1144" ph="/** 检测是否为数字类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1384:1503" ph="/** 检测是否为布尔类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1744:1861" ph="/** 检测是否为对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2101:2143" ph="/** 检测是否为函数 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2385:2507" ph="/** 创建一个使用给定对象作为原型的新对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2710:2857" ph="/** 给指定的元素添加事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3208:3354" ph="/** 移除指定元素的事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3707:3855" ph="/** 获取事件,IE中,DOM0级添加事件时,发生的事件event是window的一个属性 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3976:4112" ph="/** 获取事件发生元素, IE中使用srcElement表示事件发生的元素 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="4650:4789" ph="/** 阻止冒泡事件,IE中可能不存在stopPropagation方法, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5033:5268" ph="/** IE8及更低版本不支持event.pageX和event.pageY, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5889:6130" ph="/** 该方法用于获取事件发生的坐标,包括视口位置、页面位置以及屏幕坐标位置 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="6829:7050" ph="/** 获取relatedTarget, 兼容IE8 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7378:7598" ph="/** 获取wheelDelta, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7931:8306" ph="/** 获取按键的键码, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="8555:8742" ph="/** 该方法用于选择指定文本框中指定位置的文本, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="9261:9391" ph="/** 该方法用于在发生剪切版事件时获取剪切板中的内容 ...*/" />
+            <element signature="e#9852#9940#0" expanded="false" />
+            <element signature="e#9972#10059#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -903,62 +1048,80 @@
           <caret line="263" column="64" selection-start-line="263" selection-start-column="64" selection-end-line="263" selection-end-column="64" />
           <folding>
             <element signature="e#0#252#0" expanded="false" />
+            <element signature="e#309#426#0" expanded="false" />
             <element signature="e#475#651#0" expanded="false" />
             <element signature="e#554#606#0" expanded="false" />
+            <element signature="e#665#785#0" expanded="false" />
             <element signature="e#834#1011#0" expanded="false" />
             <element signature="e#914#966#0" expanded="false" />
+            <element signature="e#1025#1144#0" expanded="false" />
             <element signature="e#1193#1370#0" expanded="false" />
             <element signature="e#1273#1325#0" expanded="false" />
+            <element signature="e#1384#1503#0" expanded="false" />
             <element signature="e#1552#1730#0" expanded="false" />
             <element signature="e#1633#1685#0" expanded="false" />
+            <element signature="e#1744#1861#0" expanded="false" />
             <element signature="e#1910#2087#0" expanded="false" />
             <element signature="e#1990#2042#0" expanded="false" />
+            <element signature="e#2101#2143#0" expanded="false" />
             <element signature="e#2192#2371#0" expanded="false" />
             <element signature="e#2274#2326#0" expanded="false" />
+            <element signature="e#2385#2507#0" expanded="false" />
             <element signature="e#2556#2696#0" expanded="false" />
             <element signature="e#2594#2613#0" expanded="false" />
+            <element signature="e#2710#2857#0" expanded="false" />
             <element signature="e#2910#3194#0" expanded="false" />
+            <element signature="e#2952#3024#0" expanded="false" />
+            <element signature="e#3049#3116#0" expanded="false" />
+            <element signature="e#3122#3180#0" expanded="false" />
+            <element signature="e#3208#3354#0" expanded="false" />
             <element signature="e#3407#3693#0" expanded="false" />
             <element signature="e#3452#3520#0" expanded="false" />
             <element signature="e#3545#3612#0" expanded="false" />
             <element signature="e#3618#3679#0" expanded="false" />
+            <element signature="e#3707#3855#0" expanded="false" />
             <element signature="e#3902#3962#0" expanded="false" />
+            <element signature="e#3976#4112#0" expanded="false" />
             <element signature="e#4159#4233#0" expanded="false" />
+            <element signature="e#4247#4408#0" expanded="false" />
             <element signature="e#4455#4636#0" expanded="false" />
             <element signature="e#4495#4554#0" expanded="false" />
             <element signature="e#4560#4622#0" expanded="false" />
+            <element signature="e#4650#4789#0" expanded="false" />
             <element signature="e#4836#5019#0" expanded="false" />
             <element signature="e#4877#4937#0" expanded="false" />
             <element signature="e#4943#5005#0" expanded="false" />
+            <element signature="e#5033#5268#0" expanded="false" />
             <element signature="e#5315#5875#0" expanded="false" />
+            <element signature="e#5419#5570#0" expanded="false" />
+            <element signature="e#5599#5747#0" expanded="false" />
             <element signature="e#5772#5860#0" expanded="false" />
+            <element signature="e#5889#6130#0" expanded="false" />
             <element signature="e#6177#6815#0" expanded="false" />
             <element signature="e#6553#6801#0" expanded="false" />
+            <element signature="e#6829#7050#0" expanded="false" />
             <element signature="e#7097#7364#0" expanded="false" />
+            <element signature="e#7136#7199#0" expanded="false" />
+            <element signature="e#7224#7285#0" expanded="false" />
+            <element signature="e#7291#7350#0" expanded="false" />
+            <element signature="e#7378#7598#0" expanded="false" />
             <element signature="e#7645#7917#0" expanded="false" />
+            <element signature="e#7681#7831#0" expanded="false" />
+            <element signature="e#7837#7903#0" expanded="false" />
+            <element signature="e#7931#8306#0" expanded="false" />
             <element signature="e#8353#8541#0" expanded="false" />
+            <element signature="e#8406#8464#0" expanded="false" />
+            <element signature="e#8470#8527#0" expanded="false" />
+            <element signature="e#8555#8742#0" expanded="false" />
             <element signature="e#8813#9247#0" expanded="false" />
+            <element signature="e#8858#8942#0" expanded="false" />
+            <element signature="e#8948#9233#0" expanded="false" />
+            <element signature="e#9261#9391#0" expanded="false" />
             <element signature="e#9438#9603#0" expanded="false" />
+            <element signature="e#9617#9763#0" expanded="false" />
             <element signature="e#9813#10073#0" expanded="false" />
-            <marker date="1469686431000" expanded="false" signature="309:426" ph="/** 检测是否为数组 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="665:785" ph="/** 检测是否为字符串类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1025:1144" ph="/** 检测是否为数字类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1384:1503" ph="/** 检测是否为布尔类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1744:1861" ph="/** 检测是否为对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2101:2143" ph="/** 检测是否为函数 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2385:2507" ph="/** 创建一个使用给定对象作为原型的新对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2710:2857" ph="/** 给指定的元素添加事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3208:3354" ph="/** 移除指定元素的事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3707:3855" ph="/** 获取事件,IE中,DOM0级添加事件时,发生的事件event是window的一个属性 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3976:4112" ph="/** 获取事件发生元素, IE中使用srcElement表示事件发生的元素 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="4650:4789" ph="/** 阻止冒泡事件,IE中可能不存在stopPropagation方法, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5033:5268" ph="/** IE8及更低版本不支持event.pageX和event.pageY, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5889:6130" ph="/** 该方法用于获取事件发生的坐标,包括视口位置、页面位置以及屏幕坐标位置 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="6829:7050" ph="/** 获取relatedTarget, 兼容IE8 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7378:7598" ph="/** 获取wheelDelta, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7931:8306" ph="/** 获取按键的键码, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="8555:8742" ph="/** 该方法用于选择指定文本框中指定位置的文本, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="9261:9391" ph="/** 该方法用于在发生剪切版事件时获取剪切板中的内容 ...*/" />
+            <element signature="e#9852#9940#0" expanded="false" />
+            <element signature="e#9972#10059#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -984,62 +1147,80 @@
           <caret line="263" column="64" selection-start-line="263" selection-start-column="64" selection-end-line="263" selection-end-column="64" />
           <folding>
             <element signature="e#0#252#0" expanded="false" />
+            <element signature="e#309#426#0" expanded="false" />
             <element signature="e#475#651#0" expanded="false" />
             <element signature="e#554#606#0" expanded="false" />
+            <element signature="e#665#785#0" expanded="false" />
             <element signature="e#834#1011#0" expanded="false" />
             <element signature="e#914#966#0" expanded="false" />
+            <element signature="e#1025#1144#0" expanded="false" />
             <element signature="e#1193#1370#0" expanded="false" />
             <element signature="e#1273#1325#0" expanded="false" />
+            <element signature="e#1384#1503#0" expanded="false" />
             <element signature="e#1552#1730#0" expanded="false" />
             <element signature="e#1633#1685#0" expanded="false" />
+            <element signature="e#1744#1861#0" expanded="false" />
             <element signature="e#1910#2087#0" expanded="false" />
             <element signature="e#1990#2042#0" expanded="false" />
+            <element signature="e#2101#2143#0" expanded="false" />
             <element signature="e#2192#2371#0" expanded="false" />
             <element signature="e#2274#2326#0" expanded="false" />
+            <element signature="e#2385#2507#0" expanded="false" />
             <element signature="e#2556#2696#0" expanded="false" />
             <element signature="e#2594#2613#0" expanded="false" />
+            <element signature="e#2710#2857#0" expanded="false" />
             <element signature="e#2910#3194#0" expanded="false" />
+            <element signature="e#2952#3024#0" expanded="false" />
+            <element signature="e#3049#3116#0" expanded="false" />
+            <element signature="e#3122#3180#0" expanded="false" />
+            <element signature="e#3208#3354#0" expanded="false" />
             <element signature="e#3407#3693#0" expanded="false" />
             <element signature="e#3452#3520#0" expanded="false" />
             <element signature="e#3545#3612#0" expanded="false" />
             <element signature="e#3618#3679#0" expanded="false" />
+            <element signature="e#3707#3855#0" expanded="false" />
             <element signature="e#3902#3962#0" expanded="false" />
+            <element signature="e#3976#4112#0" expanded="false" />
             <element signature="e#4159#4233#0" expanded="false" />
+            <element signature="e#4247#4408#0" expanded="false" />
             <element signature="e#4455#4636#0" expanded="false" />
             <element signature="e#4495#4554#0" expanded="false" />
             <element signature="e#4560#4622#0" expanded="false" />
+            <element signature="e#4650#4789#0" expanded="false" />
             <element signature="e#4836#5019#0" expanded="false" />
             <element signature="e#4877#4937#0" expanded="false" />
             <element signature="e#4943#5005#0" expanded="false" />
+            <element signature="e#5033#5268#0" expanded="false" />
             <element signature="e#5315#5875#0" expanded="false" />
+            <element signature="e#5419#5570#0" expanded="false" />
+            <element signature="e#5599#5747#0" expanded="false" />
             <element signature="e#5772#5860#0" expanded="false" />
+            <element signature="e#5889#6130#0" expanded="false" />
             <element signature="e#6177#6815#0" expanded="false" />
             <element signature="e#6553#6801#0" expanded="false" />
+            <element signature="e#6829#7050#0" expanded="false" />
             <element signature="e#7097#7364#0" expanded="false" />
+            <element signature="e#7136#7199#0" expanded="false" />
+            <element signature="e#7224#7285#0" expanded="false" />
+            <element signature="e#7291#7350#0" expanded="false" />
+            <element signature="e#7378#7598#0" expanded="false" />
             <element signature="e#7645#7917#0" expanded="false" />
+            <element signature="e#7681#7831#0" expanded="false" />
+            <element signature="e#7837#7903#0" expanded="false" />
+            <element signature="e#7931#8306#0" expanded="false" />
             <element signature="e#8353#8541#0" expanded="false" />
+            <element signature="e#8406#8464#0" expanded="false" />
+            <element signature="e#8470#8527#0" expanded="false" />
+            <element signature="e#8555#8742#0" expanded="false" />
             <element signature="e#8813#9247#0" expanded="false" />
+            <element signature="e#8858#8942#0" expanded="false" />
+            <element signature="e#8948#9233#0" expanded="false" />
+            <element signature="e#9261#9391#0" expanded="false" />
             <element signature="e#9438#9603#0" expanded="false" />
+            <element signature="e#9617#9763#0" expanded="false" />
             <element signature="e#9813#10073#0" expanded="false" />
-            <marker date="1469686431000" expanded="false" signature="309:426" ph="/** 检测是否为数组 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="665:785" ph="/** 检测是否为字符串类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1025:1144" ph="/** 检测是否为数字类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1384:1503" ph="/** 检测是否为布尔类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1744:1861" ph="/** 检测是否为对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2101:2143" ph="/** 检测是否为函数 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2385:2507" ph="/** 创建一个使用给定对象作为原型的新对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2710:2857" ph="/** 给指定的元素添加事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3208:3354" ph="/** 移除指定元素的事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3707:3855" ph="/** 获取事件,IE中,DOM0级添加事件时,发生的事件event是window的一个属性 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3976:4112" ph="/** 获取事件发生元素, IE中使用srcElement表示事件发生的元素 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="4650:4789" ph="/** 阻止冒泡事件,IE中可能不存在stopPropagation方法, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5033:5268" ph="/** IE8及更低版本不支持event.pageX和event.pageY, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5889:6130" ph="/** 该方法用于获取事件发生的坐标,包括视口位置、页面位置以及屏幕坐标位置 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="6829:7050" ph="/** 获取relatedTarget, 兼容IE8 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7378:7598" ph="/** 获取wheelDelta, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7931:8306" ph="/** 获取按键的键码, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="8555:8742" ph="/** 该方法用于选择指定文本框中指定位置的文本, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="9261:9391" ph="/** 该方法用于在发生剪切版事件时获取剪切板中的内容 ...*/" />
+            <element signature="e#9852#9940#0" expanded="false" />
+            <element signature="e#9972#10059#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1065,62 +1246,80 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#252#0" expanded="false" />
+            <element signature="e#309#426#0" expanded="false" />
             <element signature="e#475#651#0" expanded="false" />
             <element signature="e#554#606#0" expanded="false" />
+            <element signature="e#665#785#0" expanded="false" />
             <element signature="e#834#1011#0" expanded="false" />
             <element signature="e#914#966#0" expanded="false" />
+            <element signature="e#1025#1144#0" expanded="false" />
             <element signature="e#1193#1370#0" expanded="false" />
             <element signature="e#1273#1325#0" expanded="false" />
+            <element signature="e#1384#1503#0" expanded="false" />
             <element signature="e#1552#1730#0" expanded="false" />
             <element signature="e#1633#1685#0" expanded="false" />
+            <element signature="e#1744#1861#0" expanded="false" />
             <element signature="e#1910#2087#0" expanded="false" />
             <element signature="e#1990#2042#0" expanded="false" />
+            <element signature="e#2101#2143#0" expanded="false" />
             <element signature="e#2192#2371#0" expanded="false" />
             <element signature="e#2274#2326#0" expanded="false" />
+            <element signature="e#2385#2507#0" expanded="false" />
             <element signature="e#2556#2696#0" expanded="false" />
             <element signature="e#2594#2613#0" expanded="false" />
+            <element signature="e#2710#2857#0" expanded="false" />
             <element signature="e#2910#3194#0" expanded="false" />
+            <element signature="e#2952#3024#0" expanded="false" />
+            <element signature="e#3049#3116#0" expanded="false" />
+            <element signature="e#3122#3180#0" expanded="false" />
+            <element signature="e#3208#3354#0" expanded="false" />
             <element signature="e#3407#3693#0" expanded="false" />
             <element signature="e#3452#3520#0" expanded="false" />
             <element signature="e#3545#3612#0" expanded="false" />
             <element signature="e#3618#3679#0" expanded="false" />
+            <element signature="e#3707#3855#0" expanded="false" />
             <element signature="e#3902#3962#0" expanded="false" />
+            <element signature="e#3976#4112#0" expanded="false" />
             <element signature="e#4159#4233#0" expanded="false" />
+            <element signature="e#4247#4408#0" expanded="false" />
             <element signature="e#4455#4636#0" expanded="false" />
             <element signature="e#4495#4554#0" expanded="false" />
             <element signature="e#4560#4622#0" expanded="false" />
+            <element signature="e#4650#4789#0" expanded="false" />
             <element signature="e#4836#5019#0" expanded="false" />
             <element signature="e#4877#4937#0" expanded="false" />
             <element signature="e#4943#5005#0" expanded="false" />
+            <element signature="e#5033#5268#0" expanded="false" />
             <element signature="e#5315#5875#0" expanded="false" />
+            <element signature="e#5419#5570#0" expanded="false" />
+            <element signature="e#5599#5747#0" expanded="false" />
             <element signature="e#5772#5860#0" expanded="false" />
+            <element signature="e#5889#6130#0" expanded="false" />
             <element signature="e#6177#6815#0" expanded="false" />
             <element signature="e#6553#6801#0" expanded="false" />
+            <element signature="e#6829#7050#0" expanded="false" />
             <element signature="e#7097#7364#0" expanded="false" />
+            <element signature="e#7136#7199#0" expanded="false" />
+            <element signature="e#7224#7285#0" expanded="false" />
+            <element signature="e#7291#7350#0" expanded="false" />
+            <element signature="e#7378#7598#0" expanded="false" />
             <element signature="e#7645#7917#0" expanded="false" />
+            <element signature="e#7681#7831#0" expanded="false" />
+            <element signature="e#7837#7903#0" expanded="false" />
+            <element signature="e#7931#8306#0" expanded="false" />
             <element signature="e#8353#8541#0" expanded="false" />
+            <element signature="e#8406#8464#0" expanded="false" />
+            <element signature="e#8470#8527#0" expanded="false" />
+            <element signature="e#8555#8742#0" expanded="false" />
             <element signature="e#8813#9247#0" expanded="false" />
+            <element signature="e#8858#8942#0" expanded="false" />
+            <element signature="e#8948#9233#0" expanded="false" />
+            <element signature="e#9261#9391#0" expanded="false" />
             <element signature="e#9438#9603#0" expanded="false" />
+            <element signature="e#9617#9763#0" expanded="false" />
             <element signature="e#9813#10073#0" expanded="false" />
-            <marker date="1469686431000" expanded="false" signature="309:426" ph="/** 检测是否为数组 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="665:785" ph="/** 检测是否为字符串类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1025:1144" ph="/** 检测是否为数字类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1384:1503" ph="/** 检测是否为布尔类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1744:1861" ph="/** 检测是否为对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2101:2143" ph="/** 检测是否为函数 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2385:2507" ph="/** 创建一个使用给定对象作为原型的新对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2710:2857" ph="/** 给指定的元素添加事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3208:3354" ph="/** 移除指定元素的事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3707:3855" ph="/** 获取事件,IE中,DOM0级添加事件时,发生的事件event是window的一个属性 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3976:4112" ph="/** 获取事件发生元素, IE中使用srcElement表示事件发生的元素 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="4650:4789" ph="/** 阻止冒泡事件,IE中可能不存在stopPropagation方法, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5033:5268" ph="/** IE8及更低版本不支持event.pageX和event.pageY, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5889:6130" ph="/** 该方法用于获取事件发生的坐标,包括视口位置、页面位置以及屏幕坐标位置 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="6829:7050" ph="/** 获取relatedTarget, 兼容IE8 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7378:7598" ph="/** 获取wheelDelta, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7931:8306" ph="/** 获取按键的键码, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="8555:8742" ph="/** 该方法用于选择指定文本框中指定位置的文本, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="9261:9391" ph="/** 该方法用于在发生剪切版事件时获取剪切板中的内容 ...*/" />
+            <element signature="e#9852#9940#0" expanded="false" />
+            <element signature="e#9972#10059#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1131,62 +1330,80 @@
           <caret line="263" column="64" selection-start-line="263" selection-start-column="64" selection-end-line="263" selection-end-column="64" />
           <folding>
             <element signature="e#0#252#0" expanded="false" />
+            <element signature="e#309#426#0" expanded="false" />
             <element signature="e#475#651#0" expanded="false" />
             <element signature="e#554#606#0" expanded="false" />
+            <element signature="e#665#785#0" expanded="false" />
             <element signature="e#834#1011#0" expanded="false" />
             <element signature="e#914#966#0" expanded="false" />
+            <element signature="e#1025#1144#0" expanded="false" />
             <element signature="e#1193#1370#0" expanded="false" />
             <element signature="e#1273#1325#0" expanded="false" />
+            <element signature="e#1384#1503#0" expanded="false" />
             <element signature="e#1552#1730#0" expanded="false" />
             <element signature="e#1633#1685#0" expanded="false" />
+            <element signature="e#1744#1861#0" expanded="false" />
             <element signature="e#1910#2087#0" expanded="false" />
             <element signature="e#1990#2042#0" expanded="false" />
+            <element signature="e#2101#2143#0" expanded="false" />
             <element signature="e#2192#2371#0" expanded="false" />
             <element signature="e#2274#2326#0" expanded="false" />
+            <element signature="e#2385#2507#0" expanded="false" />
             <element signature="e#2556#2696#0" expanded="false" />
             <element signature="e#2594#2613#0" expanded="false" />
+            <element signature="e#2710#2857#0" expanded="false" />
             <element signature="e#2910#3194#0" expanded="false" />
+            <element signature="e#2952#3024#0" expanded="false" />
+            <element signature="e#3049#3116#0" expanded="false" />
+            <element signature="e#3122#3180#0" expanded="false" />
+            <element signature="e#3208#3354#0" expanded="false" />
             <element signature="e#3407#3693#0" expanded="false" />
             <element signature="e#3452#3520#0" expanded="false" />
             <element signature="e#3545#3612#0" expanded="false" />
             <element signature="e#3618#3679#0" expanded="false" />
+            <element signature="e#3707#3855#0" expanded="false" />
             <element signature="e#3902#3962#0" expanded="false" />
+            <element signature="e#3976#4112#0" expanded="false" />
             <element signature="e#4159#4233#0" expanded="false" />
+            <element signature="e#4247#4408#0" expanded="false" />
             <element signature="e#4455#4636#0" expanded="false" />
             <element signature="e#4495#4554#0" expanded="false" />
             <element signature="e#4560#4622#0" expanded="false" />
+            <element signature="e#4650#4789#0" expanded="false" />
             <element signature="e#4836#5019#0" expanded="false" />
             <element signature="e#4877#4937#0" expanded="false" />
             <element signature="e#4943#5005#0" expanded="false" />
+            <element signature="e#5033#5268#0" expanded="false" />
             <element signature="e#5315#5875#0" expanded="false" />
+            <element signature="e#5419#5570#0" expanded="false" />
+            <element signature="e#5599#5747#0" expanded="false" />
             <element signature="e#5772#5860#0" expanded="false" />
+            <element signature="e#5889#6130#0" expanded="false" />
             <element signature="e#6177#6815#0" expanded="false" />
             <element signature="e#6553#6801#0" expanded="false" />
+            <element signature="e#6829#7050#0" expanded="false" />
             <element signature="e#7097#7364#0" expanded="false" />
+            <element signature="e#7136#7199#0" expanded="false" />
+            <element signature="e#7224#7285#0" expanded="false" />
+            <element signature="e#7291#7350#0" expanded="false" />
+            <element signature="e#7378#7598#0" expanded="false" />
             <element signature="e#7645#7917#0" expanded="false" />
+            <element signature="e#7681#7831#0" expanded="false" />
+            <element signature="e#7837#7903#0" expanded="false" />
+            <element signature="e#7931#8306#0" expanded="false" />
             <element signature="e#8353#8541#0" expanded="false" />
+            <element signature="e#8406#8464#0" expanded="false" />
+            <element signature="e#8470#8527#0" expanded="false" />
+            <element signature="e#8555#8742#0" expanded="false" />
             <element signature="e#8813#9247#0" expanded="false" />
+            <element signature="e#8858#8942#0" expanded="false" />
+            <element signature="e#8948#9233#0" expanded="false" />
+            <element signature="e#9261#9391#0" expanded="false" />
             <element signature="e#9438#9603#0" expanded="false" />
+            <element signature="e#9617#9763#0" expanded="false" />
             <element signature="e#9813#10073#0" expanded="false" />
-            <marker date="1469686431000" expanded="false" signature="309:426" ph="/** 检测是否为数组 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="665:785" ph="/** 检测是否为字符串类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1025:1144" ph="/** 检测是否为数字类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1384:1503" ph="/** 检测是否为布尔类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1744:1861" ph="/** 检测是否为对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2101:2143" ph="/** 检测是否为函数 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2385:2507" ph="/** 创建一个使用给定对象作为原型的新对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2710:2857" ph="/** 给指定的元素添加事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3208:3354" ph="/** 移除指定元素的事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3707:3855" ph="/** 获取事件,IE中,DOM0级添加事件时,发生的事件event是window的一个属性 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3976:4112" ph="/** 获取事件发生元素, IE中使用srcElement表示事件发生的元素 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="4650:4789" ph="/** 阻止冒泡事件,IE中可能不存在stopPropagation方法, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5033:5268" ph="/** IE8及更低版本不支持event.pageX和event.pageY, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5889:6130" ph="/** 该方法用于获取事件发生的坐标,包括视口位置、页面位置以及屏幕坐标位置 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="6829:7050" ph="/** 获取relatedTarget, 兼容IE8 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7378:7598" ph="/** 获取wheelDelta, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7931:8306" ph="/** 获取按键的键码, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="8555:8742" ph="/** 该方法用于选择指定文本框中指定位置的文本, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="9261:9391" ph="/** 该方法用于在发生剪切版事件时获取剪切板中的内容 ...*/" />
+            <element signature="e#9852#9940#0" expanded="false" />
+            <element signature="e#9972#10059#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1205,136 +1422,80 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#252#0" expanded="false" />
+            <element signature="e#309#426#0" expanded="false" />
             <element signature="e#475#651#0" expanded="false" />
             <element signature="e#554#606#0" expanded="false" />
+            <element signature="e#665#785#0" expanded="false" />
             <element signature="e#834#1011#0" expanded="false" />
             <element signature="e#914#966#0" expanded="false" />
+            <element signature="e#1025#1144#0" expanded="false" />
             <element signature="e#1193#1370#0" expanded="false" />
             <element signature="e#1273#1325#0" expanded="false" />
+            <element signature="e#1384#1503#0" expanded="false" />
             <element signature="e#1552#1730#0" expanded="false" />
             <element signature="e#1633#1685#0" expanded="false" />
+            <element signature="e#1744#1861#0" expanded="false" />
             <element signature="e#1910#2087#0" expanded="false" />
             <element signature="e#1990#2042#0" expanded="false" />
+            <element signature="e#2101#2143#0" expanded="false" />
             <element signature="e#2192#2371#0" expanded="false" />
             <element signature="e#2274#2326#0" expanded="false" />
+            <element signature="e#2385#2507#0" expanded="false" />
             <element signature="e#2556#2696#0" expanded="false" />
             <element signature="e#2594#2613#0" expanded="false" />
+            <element signature="e#2710#2857#0" expanded="false" />
             <element signature="e#2910#3194#0" expanded="false" />
+            <element signature="e#2952#3024#0" expanded="false" />
+            <element signature="e#3049#3116#0" expanded="false" />
+            <element signature="e#3122#3180#0" expanded="false" />
+            <element signature="e#3208#3354#0" expanded="false" />
             <element signature="e#3407#3693#0" expanded="false" />
             <element signature="e#3452#3520#0" expanded="false" />
             <element signature="e#3545#3612#0" expanded="false" />
             <element signature="e#3618#3679#0" expanded="false" />
+            <element signature="e#3707#3855#0" expanded="false" />
             <element signature="e#3902#3962#0" expanded="false" />
+            <element signature="e#3976#4112#0" expanded="false" />
             <element signature="e#4159#4233#0" expanded="false" />
+            <element signature="e#4247#4408#0" expanded="false" />
             <element signature="e#4455#4636#0" expanded="false" />
             <element signature="e#4495#4554#0" expanded="false" />
             <element signature="e#4560#4622#0" expanded="false" />
+            <element signature="e#4650#4789#0" expanded="false" />
             <element signature="e#4836#5019#0" expanded="false" />
             <element signature="e#4877#4937#0" expanded="false" />
             <element signature="e#4943#5005#0" expanded="false" />
+            <element signature="e#5033#5268#0" expanded="false" />
             <element signature="e#5315#5875#0" expanded="false" />
+            <element signature="e#5419#5570#0" expanded="false" />
+            <element signature="e#5599#5747#0" expanded="false" />
             <element signature="e#5772#5860#0" expanded="false" />
+            <element signature="e#5889#6130#0" expanded="false" />
             <element signature="e#6177#6815#0" expanded="false" />
             <element signature="e#6553#6801#0" expanded="false" />
+            <element signature="e#6829#7050#0" expanded="false" />
             <element signature="e#7097#7364#0" expanded="false" />
+            <element signature="e#7136#7199#0" expanded="false" />
+            <element signature="e#7224#7285#0" expanded="false" />
+            <element signature="e#7291#7350#0" expanded="false" />
+            <element signature="e#7378#7598#0" expanded="false" />
             <element signature="e#7645#7917#0" expanded="false" />
+            <element signature="e#7681#7831#0" expanded="false" />
+            <element signature="e#7837#7903#0" expanded="false" />
+            <element signature="e#7931#8306#0" expanded="false" />
             <element signature="e#8353#8541#0" expanded="false" />
+            <element signature="e#8406#8464#0" expanded="false" />
+            <element signature="e#8470#8527#0" expanded="false" />
+            <element signature="e#8555#8742#0" expanded="false" />
             <element signature="e#8813#9247#0" expanded="false" />
+            <element signature="e#8858#8942#0" expanded="false" />
+            <element signature="e#8948#9233#0" expanded="false" />
+            <element signature="e#9261#9391#0" expanded="false" />
             <element signature="e#9438#9603#0" expanded="false" />
+            <element signature="e#9617#9763#0" expanded="false" />
             <element signature="e#9813#10073#0" expanded="false" />
-            <marker date="1469686431000" expanded="false" signature="309:426" ph="/** 检测是否为数组 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="665:785" ph="/** 检测是否为字符串类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1025:1144" ph="/** 检测是否为数字类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1384:1503" ph="/** 检测是否为布尔类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1744:1861" ph="/** 检测是否为对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2101:2143" ph="/** 检测是否为函数 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2385:2507" ph="/** 创建一个使用给定对象作为原型的新对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2710:2857" ph="/** 给指定的元素添加事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3208:3354" ph="/** 移除指定元素的事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3707:3855" ph="/** 获取事件,IE中,DOM0级添加事件时,发生的事件event是window的一个属性 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3976:4112" ph="/** 获取事件发生元素, IE中使用srcElement表示事件发生的元素 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="4650:4789" ph="/** 阻止冒泡事件,IE中可能不存在stopPropagation方法, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5033:5268" ph="/** IE8及更低版本不支持event.pageX和event.pageY, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5889:6130" ph="/** 该方法用于获取事件发生的坐标,包括视口位置、页面位置以及屏幕坐标位置 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="6829:7050" ph="/** 获取relatedTarget, 兼容IE8 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7378:7598" ph="/** 获取wheelDelta, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7931:8306" ph="/** 获取按键的键码, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="8555:8742" ph="/** 该方法用于选择指定文本框中指定位置的文本, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="9261:9391" ph="/** 该方法用于在发生剪切版事件时获取剪切板中的内容 ...*/" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OE.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#252#0" expanded="false" />
-            <element signature="e#475#651#0" expanded="false" />
-            <element signature="e#554#606#0" expanded="false" />
-            <element signature="e#834#1011#0" expanded="false" />
-            <element signature="e#914#966#0" expanded="false" />
-            <element signature="e#1193#1370#0" expanded="false" />
-            <element signature="e#1273#1325#0" expanded="false" />
-            <element signature="e#1552#1730#0" expanded="false" />
-            <element signature="e#1633#1685#0" expanded="false" />
-            <element signature="e#1910#2087#0" expanded="false" />
-            <element signature="e#1990#2042#0" expanded="false" />
-            <element signature="e#2192#2371#0" expanded="false" />
-            <element signature="e#2274#2326#0" expanded="false" />
-            <element signature="e#2556#2696#0" expanded="false" />
-            <element signature="e#2594#2613#0" expanded="false" />
-            <element signature="e#2910#3194#0" expanded="false" />
-            <element signature="e#3407#3693#0" expanded="false" />
-            <element signature="e#3452#3520#0" expanded="false" />
-            <element signature="e#3545#3612#0" expanded="false" />
-            <element signature="e#3618#3679#0" expanded="false" />
-            <element signature="e#3902#3962#0" expanded="false" />
-            <element signature="e#4159#4233#0" expanded="false" />
-            <element signature="e#4455#4636#0" expanded="false" />
-            <element signature="e#4495#4554#0" expanded="false" />
-            <element signature="e#4560#4622#0" expanded="false" />
-            <element signature="e#4836#5019#0" expanded="false" />
-            <element signature="e#4877#4937#0" expanded="false" />
-            <element signature="e#4943#5005#0" expanded="false" />
-            <element signature="e#5315#5875#0" expanded="false" />
-            <element signature="e#5772#5860#0" expanded="false" />
-            <element signature="e#6177#6815#0" expanded="false" />
-            <element signature="e#6553#6801#0" expanded="false" />
-            <element signature="e#7097#7364#0" expanded="false" />
-            <element signature="e#7645#7917#0" expanded="false" />
-            <element signature="e#8353#8541#0" expanded="false" />
-            <element signature="e#8813#9247#0" expanded="false" />
-            <element signature="e#9438#9603#0" expanded="false" />
-            <element signature="e#9813#10073#0" expanded="false" />
-            <marker date="1469686431000" expanded="false" signature="309:426" ph="/** 检测是否为数组 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="665:785" ph="/** 检测是否为字符串类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1025:1144" ph="/** 检测是否为数字类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1384:1503" ph="/** 检测是否为布尔类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1744:1861" ph="/** 检测是否为对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2101:2143" ph="/** 检测是否为函数 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2385:2507" ph="/** 创建一个使用给定对象作为原型的新对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2710:2857" ph="/** 给指定的元素添加事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3208:3354" ph="/** 移除指定元素的事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3707:3855" ph="/** 获取事件,IE中,DOM0级添加事件时,发生的事件event是window的一个属性 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3976:4112" ph="/** 获取事件发生元素, IE中使用srcElement表示事件发生的元素 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="4650:4789" ph="/** 阻止冒泡事件,IE中可能不存在stopPropagation方法, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5033:5268" ph="/** IE8及更低版本不支持event.pageX和event.pageY, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5889:6130" ph="/** 该方法用于获取事件发生的坐标,包括视口位置、页面位置以及屏幕坐标位置 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="6829:7050" ph="/** 获取relatedTarget, 兼容IE8 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7378:7598" ph="/** 获取wheelDelta, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7931:8306" ph="/** 获取按键的键码, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="8555:8742" ph="/** 该方法用于选择指定文本框中指定位置的文本, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="9261:9391" ph="/** 该方法用于在发生剪切版事件时获取剪切板中的内容 ...*/" />
+            <element signature="e#9852#9940#0" expanded="false" />
+            <element signature="e#9972#10059#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1353,62 +1514,80 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#252#0" expanded="false" />
+            <element signature="e#309#426#0" expanded="false" />
             <element signature="e#475#651#0" expanded="false" />
             <element signature="e#554#606#0" expanded="false" />
+            <element signature="e#665#785#0" expanded="false" />
             <element signature="e#834#1011#0" expanded="false" />
             <element signature="e#914#966#0" expanded="false" />
+            <element signature="e#1025#1144#0" expanded="false" />
             <element signature="e#1193#1370#0" expanded="false" />
             <element signature="e#1273#1325#0" expanded="false" />
+            <element signature="e#1384#1503#0" expanded="false" />
             <element signature="e#1552#1730#0" expanded="false" />
             <element signature="e#1633#1685#0" expanded="false" />
+            <element signature="e#1744#1861#0" expanded="false" />
             <element signature="e#1910#2087#0" expanded="false" />
             <element signature="e#1990#2042#0" expanded="false" />
+            <element signature="e#2101#2143#0" expanded="false" />
             <element signature="e#2192#2371#0" expanded="false" />
             <element signature="e#2274#2326#0" expanded="false" />
+            <element signature="e#2385#2507#0" expanded="false" />
             <element signature="e#2556#2696#0" expanded="false" />
             <element signature="e#2594#2613#0" expanded="false" />
+            <element signature="e#2710#2857#0" expanded="false" />
             <element signature="e#2910#3194#0" expanded="false" />
+            <element signature="e#2952#3024#0" expanded="false" />
+            <element signature="e#3049#3116#0" expanded="false" />
+            <element signature="e#3122#3180#0" expanded="false" />
+            <element signature="e#3208#3354#0" expanded="false" />
             <element signature="e#3407#3693#0" expanded="false" />
             <element signature="e#3452#3520#0" expanded="false" />
             <element signature="e#3545#3612#0" expanded="false" />
             <element signature="e#3618#3679#0" expanded="false" />
+            <element signature="e#3707#3855#0" expanded="false" />
             <element signature="e#3902#3962#0" expanded="false" />
+            <element signature="e#3976#4112#0" expanded="false" />
             <element signature="e#4159#4233#0" expanded="false" />
+            <element signature="e#4247#4408#0" expanded="false" />
             <element signature="e#4455#4636#0" expanded="false" />
             <element signature="e#4495#4554#0" expanded="false" />
             <element signature="e#4560#4622#0" expanded="false" />
+            <element signature="e#4650#4789#0" expanded="false" />
             <element signature="e#4836#5019#0" expanded="false" />
             <element signature="e#4877#4937#0" expanded="false" />
             <element signature="e#4943#5005#0" expanded="false" />
+            <element signature="e#5033#5268#0" expanded="false" />
             <element signature="e#5315#5875#0" expanded="false" />
+            <element signature="e#5419#5570#0" expanded="false" />
+            <element signature="e#5599#5747#0" expanded="false" />
             <element signature="e#5772#5860#0" expanded="false" />
+            <element signature="e#5889#6130#0" expanded="false" />
             <element signature="e#6177#6815#0" expanded="false" />
             <element signature="e#6553#6801#0" expanded="false" />
+            <element signature="e#6829#7050#0" expanded="false" />
             <element signature="e#7097#7364#0" expanded="false" />
+            <element signature="e#7136#7199#0" expanded="false" />
+            <element signature="e#7224#7285#0" expanded="false" />
+            <element signature="e#7291#7350#0" expanded="false" />
+            <element signature="e#7378#7598#0" expanded="false" />
             <element signature="e#7645#7917#0" expanded="false" />
+            <element signature="e#7681#7831#0" expanded="false" />
+            <element signature="e#7837#7903#0" expanded="false" />
+            <element signature="e#7931#8306#0" expanded="false" />
             <element signature="e#8353#8541#0" expanded="false" />
+            <element signature="e#8406#8464#0" expanded="false" />
+            <element signature="e#8470#8527#0" expanded="false" />
+            <element signature="e#8555#8742#0" expanded="false" />
             <element signature="e#8813#9247#0" expanded="false" />
+            <element signature="e#8858#8942#0" expanded="false" />
+            <element signature="e#8948#9233#0" expanded="false" />
+            <element signature="e#9261#9391#0" expanded="false" />
             <element signature="e#9438#9603#0" expanded="false" />
+            <element signature="e#9617#9763#0" expanded="false" />
             <element signature="e#9813#10073#0" expanded="false" />
-            <marker date="1469686431000" expanded="false" signature="309:426" ph="/** 检测是否为数组 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="665:785" ph="/** 检测是否为字符串类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1025:1144" ph="/** 检测是否为数字类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1384:1503" ph="/** 检测是否为布尔类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1744:1861" ph="/** 检测是否为对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2101:2143" ph="/** 检测是否为函数 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2385:2507" ph="/** 创建一个使用给定对象作为原型的新对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2710:2857" ph="/** 给指定的元素添加事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3208:3354" ph="/** 移除指定元素的事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3707:3855" ph="/** 获取事件,IE中,DOM0级添加事件时,发生的事件event是window的一个属性 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3976:4112" ph="/** 获取事件发生元素, IE中使用srcElement表示事件发生的元素 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="4650:4789" ph="/** 阻止冒泡事件,IE中可能不存在stopPropagation方法, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5033:5268" ph="/** IE8及更低版本不支持event.pageX和event.pageY, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5889:6130" ph="/** 该方法用于获取事件发生的坐标,包括视口位置、页面位置以及屏幕坐标位置 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="6829:7050" ph="/** 获取relatedTarget, 兼容IE8 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7378:7598" ph="/** 获取wheelDelta, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7931:8306" ph="/** 获取按键的键码, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="8555:8742" ph="/** 该方法用于选择指定文本框中指定位置的文本, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="9261:9391" ph="/** 该方法用于在发生剪切版事件时获取剪切板中的内容 ...*/" />
+            <element signature="e#9852#9940#0" expanded="false" />
+            <element signature="e#9972#10059#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1427,62 +1606,80 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#252#0" expanded="false" />
+            <element signature="e#309#426#0" expanded="false" />
             <element signature="e#475#651#0" expanded="false" />
             <element signature="e#554#606#0" expanded="false" />
+            <element signature="e#665#785#0" expanded="false" />
             <element signature="e#834#1011#0" expanded="false" />
             <element signature="e#914#966#0" expanded="false" />
+            <element signature="e#1025#1144#0" expanded="false" />
             <element signature="e#1193#1370#0" expanded="false" />
             <element signature="e#1273#1325#0" expanded="false" />
+            <element signature="e#1384#1503#0" expanded="false" />
             <element signature="e#1552#1730#0" expanded="false" />
             <element signature="e#1633#1685#0" expanded="false" />
+            <element signature="e#1744#1861#0" expanded="false" />
             <element signature="e#1910#2087#0" expanded="false" />
             <element signature="e#1990#2042#0" expanded="false" />
+            <element signature="e#2101#2143#0" expanded="false" />
             <element signature="e#2192#2371#0" expanded="false" />
             <element signature="e#2274#2326#0" expanded="false" />
+            <element signature="e#2385#2507#0" expanded="false" />
             <element signature="e#2556#2696#0" expanded="false" />
             <element signature="e#2594#2613#0" expanded="false" />
+            <element signature="e#2710#2857#0" expanded="false" />
             <element signature="e#2910#3194#0" expanded="false" />
+            <element signature="e#2952#3024#0" expanded="false" />
+            <element signature="e#3049#3116#0" expanded="false" />
+            <element signature="e#3122#3180#0" expanded="false" />
+            <element signature="e#3208#3354#0" expanded="false" />
             <element signature="e#3407#3693#0" expanded="false" />
             <element signature="e#3452#3520#0" expanded="false" />
             <element signature="e#3545#3612#0" expanded="false" />
             <element signature="e#3618#3679#0" expanded="false" />
+            <element signature="e#3707#3855#0" expanded="false" />
             <element signature="e#3902#3962#0" expanded="false" />
+            <element signature="e#3976#4112#0" expanded="false" />
             <element signature="e#4159#4233#0" expanded="false" />
+            <element signature="e#4247#4408#0" expanded="false" />
             <element signature="e#4455#4636#0" expanded="false" />
             <element signature="e#4495#4554#0" expanded="false" />
             <element signature="e#4560#4622#0" expanded="false" />
+            <element signature="e#4650#4789#0" expanded="false" />
             <element signature="e#4836#5019#0" expanded="false" />
             <element signature="e#4877#4937#0" expanded="false" />
             <element signature="e#4943#5005#0" expanded="false" />
+            <element signature="e#5033#5268#0" expanded="false" />
             <element signature="e#5315#5875#0" expanded="false" />
+            <element signature="e#5419#5570#0" expanded="false" />
+            <element signature="e#5599#5747#0" expanded="false" />
             <element signature="e#5772#5860#0" expanded="false" />
+            <element signature="e#5889#6130#0" expanded="false" />
             <element signature="e#6177#6815#0" expanded="false" />
             <element signature="e#6553#6801#0" expanded="false" />
+            <element signature="e#6829#7050#0" expanded="false" />
             <element signature="e#7097#7364#0" expanded="false" />
+            <element signature="e#7136#7199#0" expanded="false" />
+            <element signature="e#7224#7285#0" expanded="false" />
+            <element signature="e#7291#7350#0" expanded="false" />
+            <element signature="e#7378#7598#0" expanded="false" />
             <element signature="e#7645#7917#0" expanded="false" />
+            <element signature="e#7681#7831#0" expanded="false" />
+            <element signature="e#7837#7903#0" expanded="false" />
+            <element signature="e#7931#8306#0" expanded="false" />
             <element signature="e#8353#8541#0" expanded="false" />
+            <element signature="e#8406#8464#0" expanded="false" />
+            <element signature="e#8470#8527#0" expanded="false" />
+            <element signature="e#8555#8742#0" expanded="false" />
             <element signature="e#8813#9247#0" expanded="false" />
+            <element signature="e#8858#8942#0" expanded="false" />
+            <element signature="e#8948#9233#0" expanded="false" />
+            <element signature="e#9261#9391#0" expanded="false" />
             <element signature="e#9438#9603#0" expanded="false" />
+            <element signature="e#9617#9763#0" expanded="false" />
             <element signature="e#9813#10073#0" expanded="false" />
-            <marker date="1469686431000" expanded="false" signature="309:426" ph="/** 检测是否为数组 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="665:785" ph="/** 检测是否为字符串类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1025:1144" ph="/** 检测是否为数字类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1384:1503" ph="/** 检测是否为布尔类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1744:1861" ph="/** 检测是否为对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2101:2143" ph="/** 检测是否为函数 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2385:2507" ph="/** 创建一个使用给定对象作为原型的新对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2710:2857" ph="/** 给指定的元素添加事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3208:3354" ph="/** 移除指定元素的事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3707:3855" ph="/** 获取事件,IE中,DOM0级添加事件时,发生的事件event是window的一个属性 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3976:4112" ph="/** 获取事件发生元素, IE中使用srcElement表示事件发生的元素 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="4650:4789" ph="/** 阻止冒泡事件,IE中可能不存在stopPropagation方法, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5033:5268" ph="/** IE8及更低版本不支持event.pageX和event.pageY, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5889:6130" ph="/** 该方法用于获取事件发生的坐标,包括视口位置、页面位置以及屏幕坐标位置 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="6829:7050" ph="/** 获取relatedTarget, 兼容IE8 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7378:7598" ph="/** 获取wheelDelta, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7931:8306" ph="/** 获取按键的键码, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="8555:8742" ph="/** 该方法用于选择指定文本框中指定位置的文本, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="9261:9391" ph="/** 该方法用于在发生剪切版事件时获取剪切板中的内容 ...*/" />
+            <element signature="e#9852#9940#0" expanded="false" />
+            <element signature="e#9972#10059#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1501,62 +1698,80 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#252#0" expanded="false" />
+            <element signature="e#309#426#0" expanded="false" />
             <element signature="e#475#651#0" expanded="false" />
             <element signature="e#554#606#0" expanded="false" />
+            <element signature="e#665#785#0" expanded="false" />
             <element signature="e#834#1011#0" expanded="false" />
             <element signature="e#914#966#0" expanded="false" />
+            <element signature="e#1025#1144#0" expanded="false" />
             <element signature="e#1193#1370#0" expanded="false" />
             <element signature="e#1273#1325#0" expanded="false" />
+            <element signature="e#1384#1503#0" expanded="false" />
             <element signature="e#1552#1730#0" expanded="false" />
             <element signature="e#1633#1685#0" expanded="false" />
+            <element signature="e#1744#1861#0" expanded="false" />
             <element signature="e#1910#2087#0" expanded="false" />
             <element signature="e#1990#2042#0" expanded="false" />
+            <element signature="e#2101#2143#0" expanded="false" />
             <element signature="e#2192#2371#0" expanded="false" />
             <element signature="e#2274#2326#0" expanded="false" />
+            <element signature="e#2385#2507#0" expanded="false" />
             <element signature="e#2556#2696#0" expanded="false" />
             <element signature="e#2594#2613#0" expanded="false" />
+            <element signature="e#2710#2857#0" expanded="false" />
             <element signature="e#2910#3194#0" expanded="false" />
+            <element signature="e#2952#3024#0" expanded="false" />
+            <element signature="e#3049#3116#0" expanded="false" />
+            <element signature="e#3122#3180#0" expanded="false" />
+            <element signature="e#3208#3354#0" expanded="false" />
             <element signature="e#3407#3693#0" expanded="false" />
             <element signature="e#3452#3520#0" expanded="false" />
             <element signature="e#3545#3612#0" expanded="false" />
             <element signature="e#3618#3679#0" expanded="false" />
+            <element signature="e#3707#3855#0" expanded="false" />
             <element signature="e#3902#3962#0" expanded="false" />
+            <element signature="e#3976#4112#0" expanded="false" />
             <element signature="e#4159#4233#0" expanded="false" />
+            <element signature="e#4247#4408#0" expanded="false" />
             <element signature="e#4455#4636#0" expanded="false" />
             <element signature="e#4495#4554#0" expanded="false" />
             <element signature="e#4560#4622#0" expanded="false" />
+            <element signature="e#4650#4789#0" expanded="false" />
             <element signature="e#4836#5019#0" expanded="false" />
             <element signature="e#4877#4937#0" expanded="false" />
             <element signature="e#4943#5005#0" expanded="false" />
+            <element signature="e#5033#5268#0" expanded="false" />
             <element signature="e#5315#5875#0" expanded="false" />
+            <element signature="e#5419#5570#0" expanded="false" />
+            <element signature="e#5599#5747#0" expanded="false" />
             <element signature="e#5772#5860#0" expanded="false" />
+            <element signature="e#5889#6130#0" expanded="false" />
             <element signature="e#6177#6815#0" expanded="false" />
             <element signature="e#6553#6801#0" expanded="false" />
+            <element signature="e#6829#7050#0" expanded="false" />
             <element signature="e#7097#7364#0" expanded="false" />
+            <element signature="e#7136#7199#0" expanded="false" />
+            <element signature="e#7224#7285#0" expanded="false" />
+            <element signature="e#7291#7350#0" expanded="false" />
+            <element signature="e#7378#7598#0" expanded="false" />
             <element signature="e#7645#7917#0" expanded="false" />
+            <element signature="e#7681#7831#0" expanded="false" />
+            <element signature="e#7837#7903#0" expanded="false" />
+            <element signature="e#7931#8306#0" expanded="false" />
             <element signature="e#8353#8541#0" expanded="false" />
+            <element signature="e#8406#8464#0" expanded="false" />
+            <element signature="e#8470#8527#0" expanded="false" />
+            <element signature="e#8555#8742#0" expanded="false" />
             <element signature="e#8813#9247#0" expanded="false" />
+            <element signature="e#8858#8942#0" expanded="false" />
+            <element signature="e#8948#9233#0" expanded="false" />
+            <element signature="e#9261#9391#0" expanded="false" />
             <element signature="e#9438#9603#0" expanded="false" />
+            <element signature="e#9617#9763#0" expanded="false" />
             <element signature="e#9813#10073#0" expanded="false" />
-            <marker date="1469686431000" expanded="false" signature="309:426" ph="/** 检测是否为数组 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="665:785" ph="/** 检测是否为字符串类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1025:1144" ph="/** 检测是否为数字类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1384:1503" ph="/** 检测是否为布尔类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1744:1861" ph="/** 检测是否为对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2101:2143" ph="/** 检测是否为函数 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2385:2507" ph="/** 创建一个使用给定对象作为原型的新对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2710:2857" ph="/** 给指定的元素添加事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3208:3354" ph="/** 移除指定元素的事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3707:3855" ph="/** 获取事件,IE中,DOM0级添加事件时,发生的事件event是window的一个属性 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3976:4112" ph="/** 获取事件发生元素, IE中使用srcElement表示事件发生的元素 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="4650:4789" ph="/** 阻止冒泡事件,IE中可能不存在stopPropagation方法, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5033:5268" ph="/** IE8及更低版本不支持event.pageX和event.pageY, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5889:6130" ph="/** 该方法用于获取事件发生的坐标,包括视口位置、页面位置以及屏幕坐标位置 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="6829:7050" ph="/** 获取relatedTarget, 兼容IE8 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7378:7598" ph="/** 获取wheelDelta, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7931:8306" ph="/** 获取按键的键码, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="8555:8742" ph="/** 该方法用于选择指定文本框中指定位置的文本, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="9261:9391" ph="/** 该方法用于在发生剪切版事件时获取剪切板中的内容 ...*/" />
+            <element signature="e#9852#9940#0" expanded="false" />
+            <element signature="e#9972#10059#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1575,62 +1790,80 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#252#0" expanded="false" />
+            <element signature="e#309#426#0" expanded="false" />
             <element signature="e#475#651#0" expanded="false" />
             <element signature="e#554#606#0" expanded="false" />
+            <element signature="e#665#785#0" expanded="false" />
             <element signature="e#834#1011#0" expanded="false" />
             <element signature="e#914#966#0" expanded="false" />
+            <element signature="e#1025#1144#0" expanded="false" />
             <element signature="e#1193#1370#0" expanded="false" />
             <element signature="e#1273#1325#0" expanded="false" />
+            <element signature="e#1384#1503#0" expanded="false" />
             <element signature="e#1552#1730#0" expanded="false" />
             <element signature="e#1633#1685#0" expanded="false" />
+            <element signature="e#1744#1861#0" expanded="false" />
             <element signature="e#1910#2087#0" expanded="false" />
             <element signature="e#1990#2042#0" expanded="false" />
+            <element signature="e#2101#2143#0" expanded="false" />
             <element signature="e#2192#2371#0" expanded="false" />
             <element signature="e#2274#2326#0" expanded="false" />
+            <element signature="e#2385#2507#0" expanded="false" />
             <element signature="e#2556#2696#0" expanded="false" />
             <element signature="e#2594#2613#0" expanded="false" />
+            <element signature="e#2710#2857#0" expanded="false" />
             <element signature="e#2910#3194#0" expanded="false" />
+            <element signature="e#2952#3024#0" expanded="false" />
+            <element signature="e#3049#3116#0" expanded="false" />
+            <element signature="e#3122#3180#0" expanded="false" />
+            <element signature="e#3208#3354#0" expanded="false" />
             <element signature="e#3407#3693#0" expanded="false" />
             <element signature="e#3452#3520#0" expanded="false" />
             <element signature="e#3545#3612#0" expanded="false" />
             <element signature="e#3618#3679#0" expanded="false" />
+            <element signature="e#3707#3855#0" expanded="false" />
             <element signature="e#3902#3962#0" expanded="false" />
+            <element signature="e#3976#4112#0" expanded="false" />
             <element signature="e#4159#4233#0" expanded="false" />
+            <element signature="e#4247#4408#0" expanded="false" />
             <element signature="e#4455#4636#0" expanded="false" />
             <element signature="e#4495#4554#0" expanded="false" />
             <element signature="e#4560#4622#0" expanded="false" />
+            <element signature="e#4650#4789#0" expanded="false" />
             <element signature="e#4836#5019#0" expanded="false" />
             <element signature="e#4877#4937#0" expanded="false" />
             <element signature="e#4943#5005#0" expanded="false" />
+            <element signature="e#5033#5268#0" expanded="false" />
             <element signature="e#5315#5875#0" expanded="false" />
+            <element signature="e#5419#5570#0" expanded="false" />
+            <element signature="e#5599#5747#0" expanded="false" />
             <element signature="e#5772#5860#0" expanded="false" />
+            <element signature="e#5889#6130#0" expanded="false" />
             <element signature="e#6177#6815#0" expanded="false" />
             <element signature="e#6553#6801#0" expanded="false" />
+            <element signature="e#6829#7050#0" expanded="false" />
             <element signature="e#7097#7364#0" expanded="false" />
+            <element signature="e#7136#7199#0" expanded="false" />
+            <element signature="e#7224#7285#0" expanded="false" />
+            <element signature="e#7291#7350#0" expanded="false" />
+            <element signature="e#7378#7598#0" expanded="false" />
             <element signature="e#7645#7917#0" expanded="false" />
+            <element signature="e#7681#7831#0" expanded="false" />
+            <element signature="e#7837#7903#0" expanded="false" />
+            <element signature="e#7931#8306#0" expanded="false" />
             <element signature="e#8353#8541#0" expanded="false" />
+            <element signature="e#8406#8464#0" expanded="false" />
+            <element signature="e#8470#8527#0" expanded="false" />
+            <element signature="e#8555#8742#0" expanded="false" />
             <element signature="e#8813#9247#0" expanded="false" />
+            <element signature="e#8858#8942#0" expanded="false" />
+            <element signature="e#8948#9233#0" expanded="false" />
+            <element signature="e#9261#9391#0" expanded="false" />
             <element signature="e#9438#9603#0" expanded="false" />
+            <element signature="e#9617#9763#0" expanded="false" />
             <element signature="e#9813#10073#0" expanded="false" />
-            <marker date="1469686431000" expanded="false" signature="309:426" ph="/** 检测是否为数组 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="665:785" ph="/** 检测是否为字符串类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1025:1144" ph="/** 检测是否为数字类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1384:1503" ph="/** 检测是否为布尔类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1744:1861" ph="/** 检测是否为对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2101:2143" ph="/** 检测是否为函数 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2385:2507" ph="/** 创建一个使用给定对象作为原型的新对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2710:2857" ph="/** 给指定的元素添加事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3208:3354" ph="/** 移除指定元素的事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3707:3855" ph="/** 获取事件,IE中,DOM0级添加事件时,发生的事件event是window的一个属性 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3976:4112" ph="/** 获取事件发生元素, IE中使用srcElement表示事件发生的元素 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="4650:4789" ph="/** 阻止冒泡事件,IE中可能不存在stopPropagation方法, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5033:5268" ph="/** IE8及更低版本不支持event.pageX和event.pageY, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5889:6130" ph="/** 该方法用于获取事件发生的坐标,包括视口位置、页面位置以及屏幕坐标位置 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="6829:7050" ph="/** 获取relatedTarget, 兼容IE8 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7378:7598" ph="/** 获取wheelDelta, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7931:8306" ph="/** 获取按键的键码, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="8555:8742" ph="/** 该方法用于选择指定文本框中指定位置的文本, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="9261:9391" ph="/** 该方法用于在发生剪切版事件时获取剪切板中的内容 ...*/" />
+            <element signature="e#9852#9940#0" expanded="false" />
+            <element signature="e#9972#10059#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1649,62 +1882,80 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#252#0" expanded="false" />
+            <element signature="e#309#426#0" expanded="false" />
             <element signature="e#475#651#0" expanded="false" />
             <element signature="e#554#606#0" expanded="false" />
+            <element signature="e#665#785#0" expanded="false" />
             <element signature="e#834#1011#0" expanded="false" />
             <element signature="e#914#966#0" expanded="false" />
+            <element signature="e#1025#1144#0" expanded="false" />
             <element signature="e#1193#1370#0" expanded="false" />
             <element signature="e#1273#1325#0" expanded="false" />
+            <element signature="e#1384#1503#0" expanded="false" />
             <element signature="e#1552#1730#0" expanded="false" />
             <element signature="e#1633#1685#0" expanded="false" />
+            <element signature="e#1744#1861#0" expanded="false" />
             <element signature="e#1910#2087#0" expanded="false" />
             <element signature="e#1990#2042#0" expanded="false" />
+            <element signature="e#2101#2143#0" expanded="false" />
             <element signature="e#2192#2371#0" expanded="false" />
             <element signature="e#2274#2326#0" expanded="false" />
+            <element signature="e#2385#2507#0" expanded="false" />
             <element signature="e#2556#2696#0" expanded="false" />
             <element signature="e#2594#2613#0" expanded="false" />
+            <element signature="e#2710#2857#0" expanded="false" />
             <element signature="e#2910#3194#0" expanded="false" />
+            <element signature="e#2952#3024#0" expanded="false" />
+            <element signature="e#3049#3116#0" expanded="false" />
+            <element signature="e#3122#3180#0" expanded="false" />
+            <element signature="e#3208#3354#0" expanded="false" />
             <element signature="e#3407#3693#0" expanded="false" />
             <element signature="e#3452#3520#0" expanded="false" />
             <element signature="e#3545#3612#0" expanded="false" />
             <element signature="e#3618#3679#0" expanded="false" />
+            <element signature="e#3707#3855#0" expanded="false" />
             <element signature="e#3902#3962#0" expanded="false" />
+            <element signature="e#3976#4112#0" expanded="false" />
             <element signature="e#4159#4233#0" expanded="false" />
+            <element signature="e#4247#4408#0" expanded="false" />
             <element signature="e#4455#4636#0" expanded="false" />
             <element signature="e#4495#4554#0" expanded="false" />
             <element signature="e#4560#4622#0" expanded="false" />
+            <element signature="e#4650#4789#0" expanded="false" />
             <element signature="e#4836#5019#0" expanded="false" />
             <element signature="e#4877#4937#0" expanded="false" />
             <element signature="e#4943#5005#0" expanded="false" />
+            <element signature="e#5033#5268#0" expanded="false" />
             <element signature="e#5315#5875#0" expanded="false" />
+            <element signature="e#5419#5570#0" expanded="false" />
+            <element signature="e#5599#5747#0" expanded="false" />
             <element signature="e#5772#5860#0" expanded="false" />
+            <element signature="e#5889#6130#0" expanded="false" />
             <element signature="e#6177#6815#0" expanded="false" />
             <element signature="e#6553#6801#0" expanded="false" />
+            <element signature="e#6829#7050#0" expanded="false" />
             <element signature="e#7097#7364#0" expanded="false" />
+            <element signature="e#7136#7199#0" expanded="false" />
+            <element signature="e#7224#7285#0" expanded="false" />
+            <element signature="e#7291#7350#0" expanded="false" />
+            <element signature="e#7378#7598#0" expanded="false" />
             <element signature="e#7645#7917#0" expanded="false" />
+            <element signature="e#7681#7831#0" expanded="false" />
+            <element signature="e#7837#7903#0" expanded="false" />
+            <element signature="e#7931#8306#0" expanded="false" />
             <element signature="e#8353#8541#0" expanded="false" />
+            <element signature="e#8406#8464#0" expanded="false" />
+            <element signature="e#8470#8527#0" expanded="false" />
+            <element signature="e#8555#8742#0" expanded="false" />
             <element signature="e#8813#9247#0" expanded="false" />
+            <element signature="e#8858#8942#0" expanded="false" />
+            <element signature="e#8948#9233#0" expanded="false" />
+            <element signature="e#9261#9391#0" expanded="false" />
             <element signature="e#9438#9603#0" expanded="false" />
+            <element signature="e#9617#9763#0" expanded="false" />
             <element signature="e#9813#10073#0" expanded="false" />
-            <marker date="1469686431000" expanded="false" signature="309:426" ph="/** 检测是否为数组 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="665:785" ph="/** 检测是否为字符串类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1025:1144" ph="/** 检测是否为数字类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1384:1503" ph="/** 检测是否为布尔类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1744:1861" ph="/** 检测是否为对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2101:2143" ph="/** 检测是否为函数 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2385:2507" ph="/** 创建一个使用给定对象作为原型的新对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2710:2857" ph="/** 给指定的元素添加事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3208:3354" ph="/** 移除指定元素的事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3707:3855" ph="/** 获取事件,IE中,DOM0级添加事件时,发生的事件event是window的一个属性 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3976:4112" ph="/** 获取事件发生元素, IE中使用srcElement表示事件发生的元素 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="4650:4789" ph="/** 阻止冒泡事件,IE中可能不存在stopPropagation方法, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5033:5268" ph="/** IE8及更低版本不支持event.pageX和event.pageY, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5889:6130" ph="/** 该方法用于获取事件发生的坐标,包括视口位置、页面位置以及屏幕坐标位置 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="6829:7050" ph="/** 获取relatedTarget, 兼容IE8 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7378:7598" ph="/** 获取wheelDelta, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7931:8306" ph="/** 获取按键的键码, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="8555:8742" ph="/** 该方法用于选择指定文本框中指定位置的文本, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="9261:9391" ph="/** 该方法用于在发生剪切版事件时获取剪切板中的内容 ...*/" />
+            <element signature="e#9852#9940#0" expanded="false" />
+            <element signature="e#9972#10059#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1723,62 +1974,80 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#252#0" expanded="false" />
+            <element signature="e#309#426#0" expanded="false" />
             <element signature="e#475#651#0" expanded="false" />
             <element signature="e#554#606#0" expanded="false" />
+            <element signature="e#665#785#0" expanded="false" />
             <element signature="e#834#1011#0" expanded="false" />
             <element signature="e#914#966#0" expanded="false" />
+            <element signature="e#1025#1144#0" expanded="false" />
             <element signature="e#1193#1370#0" expanded="false" />
             <element signature="e#1273#1325#0" expanded="false" />
+            <element signature="e#1384#1503#0" expanded="false" />
             <element signature="e#1552#1730#0" expanded="false" />
             <element signature="e#1633#1685#0" expanded="false" />
+            <element signature="e#1744#1861#0" expanded="false" />
             <element signature="e#1910#2087#0" expanded="false" />
             <element signature="e#1990#2042#0" expanded="false" />
+            <element signature="e#2101#2143#0" expanded="false" />
             <element signature="e#2192#2371#0" expanded="false" />
             <element signature="e#2274#2326#0" expanded="false" />
+            <element signature="e#2385#2507#0" expanded="false" />
             <element signature="e#2556#2696#0" expanded="false" />
             <element signature="e#2594#2613#0" expanded="false" />
+            <element signature="e#2710#2857#0" expanded="false" />
             <element signature="e#2910#3194#0" expanded="false" />
+            <element signature="e#2952#3024#0" expanded="false" />
+            <element signature="e#3049#3116#0" expanded="false" />
+            <element signature="e#3122#3180#0" expanded="false" />
+            <element signature="e#3208#3354#0" expanded="false" />
             <element signature="e#3407#3693#0" expanded="false" />
             <element signature="e#3452#3520#0" expanded="false" />
             <element signature="e#3545#3612#0" expanded="false" />
             <element signature="e#3618#3679#0" expanded="false" />
+            <element signature="e#3707#3855#0" expanded="false" />
             <element signature="e#3902#3962#0" expanded="false" />
+            <element signature="e#3976#4112#0" expanded="false" />
             <element signature="e#4159#4233#0" expanded="false" />
+            <element signature="e#4247#4408#0" expanded="false" />
             <element signature="e#4455#4636#0" expanded="false" />
             <element signature="e#4495#4554#0" expanded="false" />
             <element signature="e#4560#4622#0" expanded="false" />
+            <element signature="e#4650#4789#0" expanded="false" />
             <element signature="e#4836#5019#0" expanded="false" />
             <element signature="e#4877#4937#0" expanded="false" />
             <element signature="e#4943#5005#0" expanded="false" />
+            <element signature="e#5033#5268#0" expanded="false" />
             <element signature="e#5315#5875#0" expanded="false" />
+            <element signature="e#5419#5570#0" expanded="false" />
+            <element signature="e#5599#5747#0" expanded="false" />
             <element signature="e#5772#5860#0" expanded="false" />
+            <element signature="e#5889#6130#0" expanded="false" />
             <element signature="e#6177#6815#0" expanded="false" />
             <element signature="e#6553#6801#0" expanded="false" />
+            <element signature="e#6829#7050#0" expanded="false" />
             <element signature="e#7097#7364#0" expanded="false" />
+            <element signature="e#7136#7199#0" expanded="false" />
+            <element signature="e#7224#7285#0" expanded="false" />
+            <element signature="e#7291#7350#0" expanded="false" />
+            <element signature="e#7378#7598#0" expanded="false" />
             <element signature="e#7645#7917#0" expanded="false" />
+            <element signature="e#7681#7831#0" expanded="false" />
+            <element signature="e#7837#7903#0" expanded="false" />
+            <element signature="e#7931#8306#0" expanded="false" />
             <element signature="e#8353#8541#0" expanded="false" />
+            <element signature="e#8406#8464#0" expanded="false" />
+            <element signature="e#8470#8527#0" expanded="false" />
+            <element signature="e#8555#8742#0" expanded="false" />
             <element signature="e#8813#9247#0" expanded="false" />
+            <element signature="e#8858#8942#0" expanded="false" />
+            <element signature="e#8948#9233#0" expanded="false" />
+            <element signature="e#9261#9391#0" expanded="false" />
             <element signature="e#9438#9603#0" expanded="false" />
+            <element signature="e#9617#9763#0" expanded="false" />
             <element signature="e#9813#10073#0" expanded="false" />
-            <marker date="1469686431000" expanded="false" signature="309:426" ph="/** 检测是否为数组 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="665:785" ph="/** 检测是否为字符串类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1025:1144" ph="/** 检测是否为数字类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1384:1503" ph="/** 检测是否为布尔类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1744:1861" ph="/** 检测是否为对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2101:2143" ph="/** 检测是否为函数 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2385:2507" ph="/** 创建一个使用给定对象作为原型的新对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2710:2857" ph="/** 给指定的元素添加事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3208:3354" ph="/** 移除指定元素的事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3707:3855" ph="/** 获取事件,IE中,DOM0级添加事件时,发生的事件event是window的一个属性 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3976:4112" ph="/** 获取事件发生元素, IE中使用srcElement表示事件发生的元素 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="4650:4789" ph="/** 阻止冒泡事件,IE中可能不存在stopPropagation方法, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5033:5268" ph="/** IE8及更低版本不支持event.pageX和event.pageY, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5889:6130" ph="/** 该方法用于获取事件发生的坐标,包括视口位置、页面位置以及屏幕坐标位置 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="6829:7050" ph="/** 获取relatedTarget, 兼容IE8 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7378:7598" ph="/** 获取wheelDelta, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7931:8306" ph="/** 获取按键的键码, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="8555:8742" ph="/** 该方法用于选择指定文本框中指定位置的文本, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="9261:9391" ph="/** 该方法用于在发生剪切版事件时获取剪切板中的内容 ...*/" />
+            <element signature="e#9852#9940#0" expanded="false" />
+            <element signature="e#9972#10059#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1797,62 +2066,80 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#252#0" expanded="false" />
+            <element signature="e#309#426#0" expanded="false" />
             <element signature="e#475#651#0" expanded="false" />
             <element signature="e#554#606#0" expanded="false" />
+            <element signature="e#665#785#0" expanded="false" />
             <element signature="e#834#1011#0" expanded="false" />
             <element signature="e#914#966#0" expanded="false" />
+            <element signature="e#1025#1144#0" expanded="false" />
             <element signature="e#1193#1370#0" expanded="false" />
             <element signature="e#1273#1325#0" expanded="false" />
+            <element signature="e#1384#1503#0" expanded="false" />
             <element signature="e#1552#1730#0" expanded="false" />
             <element signature="e#1633#1685#0" expanded="false" />
+            <element signature="e#1744#1861#0" expanded="false" />
             <element signature="e#1910#2087#0" expanded="false" />
             <element signature="e#1990#2042#0" expanded="false" />
+            <element signature="e#2101#2143#0" expanded="false" />
             <element signature="e#2192#2371#0" expanded="false" />
             <element signature="e#2274#2326#0" expanded="false" />
+            <element signature="e#2385#2507#0" expanded="false" />
             <element signature="e#2556#2696#0" expanded="false" />
             <element signature="e#2594#2613#0" expanded="false" />
+            <element signature="e#2710#2857#0" expanded="false" />
             <element signature="e#2910#3194#0" expanded="false" />
+            <element signature="e#2952#3024#0" expanded="false" />
+            <element signature="e#3049#3116#0" expanded="false" />
+            <element signature="e#3122#3180#0" expanded="false" />
+            <element signature="e#3208#3354#0" expanded="false" />
             <element signature="e#3407#3693#0" expanded="false" />
             <element signature="e#3452#3520#0" expanded="false" />
             <element signature="e#3545#3612#0" expanded="false" />
             <element signature="e#3618#3679#0" expanded="false" />
+            <element signature="e#3707#3855#0" expanded="false" />
             <element signature="e#3902#3962#0" expanded="false" />
+            <element signature="e#3976#4112#0" expanded="false" />
             <element signature="e#4159#4233#0" expanded="false" />
+            <element signature="e#4247#4408#0" expanded="false" />
             <element signature="e#4455#4636#0" expanded="false" />
             <element signature="e#4495#4554#0" expanded="false" />
             <element signature="e#4560#4622#0" expanded="false" />
+            <element signature="e#4650#4789#0" expanded="false" />
             <element signature="e#4836#5019#0" expanded="false" />
             <element signature="e#4877#4937#0" expanded="false" />
             <element signature="e#4943#5005#0" expanded="false" />
+            <element signature="e#5033#5268#0" expanded="false" />
             <element signature="e#5315#5875#0" expanded="false" />
+            <element signature="e#5419#5570#0" expanded="false" />
+            <element signature="e#5599#5747#0" expanded="false" />
             <element signature="e#5772#5860#0" expanded="false" />
+            <element signature="e#5889#6130#0" expanded="false" />
             <element signature="e#6177#6815#0" expanded="false" />
             <element signature="e#6553#6801#0" expanded="false" />
+            <element signature="e#6829#7050#0" expanded="false" />
             <element signature="e#7097#7364#0" expanded="false" />
+            <element signature="e#7136#7199#0" expanded="false" />
+            <element signature="e#7224#7285#0" expanded="false" />
+            <element signature="e#7291#7350#0" expanded="false" />
+            <element signature="e#7378#7598#0" expanded="false" />
             <element signature="e#7645#7917#0" expanded="false" />
+            <element signature="e#7681#7831#0" expanded="false" />
+            <element signature="e#7837#7903#0" expanded="false" />
+            <element signature="e#7931#8306#0" expanded="false" />
             <element signature="e#8353#8541#0" expanded="false" />
+            <element signature="e#8406#8464#0" expanded="false" />
+            <element signature="e#8470#8527#0" expanded="false" />
+            <element signature="e#8555#8742#0" expanded="false" />
             <element signature="e#8813#9247#0" expanded="false" />
+            <element signature="e#8858#8942#0" expanded="false" />
+            <element signature="e#8948#9233#0" expanded="false" />
+            <element signature="e#9261#9391#0" expanded="false" />
             <element signature="e#9438#9603#0" expanded="false" />
+            <element signature="e#9617#9763#0" expanded="false" />
             <element signature="e#9813#10073#0" expanded="false" />
-            <marker date="1469686431000" expanded="false" signature="309:426" ph="/** 检测是否为数组 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="665:785" ph="/** 检测是否为字符串类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1025:1144" ph="/** 检测是否为数字类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1384:1503" ph="/** 检测是否为布尔类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1744:1861" ph="/** 检测是否为对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2101:2143" ph="/** 检测是否为函数 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2385:2507" ph="/** 创建一个使用给定对象作为原型的新对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2710:2857" ph="/** 给指定的元素添加事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3208:3354" ph="/** 移除指定元素的事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3707:3855" ph="/** 获取事件,IE中,DOM0级添加事件时,发生的事件event是window的一个属性 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3976:4112" ph="/** 获取事件发生元素, IE中使用srcElement表示事件发生的元素 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="4650:4789" ph="/** 阻止冒泡事件,IE中可能不存在stopPropagation方法, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5033:5268" ph="/** IE8及更低版本不支持event.pageX和event.pageY, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5889:6130" ph="/** 该方法用于获取事件发生的坐标,包括视口位置、页面位置以及屏幕坐标位置 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="6829:7050" ph="/** 获取relatedTarget, 兼容IE8 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7378:7598" ph="/** 获取wheelDelta, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7931:8306" ph="/** 获取按键的键码, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="8555:8742" ph="/** 该方法用于选择指定文本框中指定位置的文本, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="9261:9391" ph="/** 该方法用于在发生剪切版事件时获取剪切板中的内容 ...*/" />
+            <element signature="e#9852#9940#0" expanded="false" />
+            <element signature="e#9972#10059#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1871,62 +2158,172 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#252#0" expanded="false" />
+            <element signature="e#309#426#0" expanded="false" />
             <element signature="e#475#651#0" expanded="false" />
             <element signature="e#554#606#0" expanded="false" />
+            <element signature="e#665#785#0" expanded="false" />
             <element signature="e#834#1011#0" expanded="false" />
             <element signature="e#914#966#0" expanded="false" />
+            <element signature="e#1025#1144#0" expanded="false" />
             <element signature="e#1193#1370#0" expanded="false" />
             <element signature="e#1273#1325#0" expanded="false" />
+            <element signature="e#1384#1503#0" expanded="false" />
             <element signature="e#1552#1730#0" expanded="false" />
             <element signature="e#1633#1685#0" expanded="false" />
+            <element signature="e#1744#1861#0" expanded="false" />
             <element signature="e#1910#2087#0" expanded="false" />
             <element signature="e#1990#2042#0" expanded="false" />
+            <element signature="e#2101#2143#0" expanded="false" />
             <element signature="e#2192#2371#0" expanded="false" />
             <element signature="e#2274#2326#0" expanded="false" />
+            <element signature="e#2385#2507#0" expanded="false" />
             <element signature="e#2556#2696#0" expanded="false" />
             <element signature="e#2594#2613#0" expanded="false" />
+            <element signature="e#2710#2857#0" expanded="false" />
             <element signature="e#2910#3194#0" expanded="false" />
+            <element signature="e#2952#3024#0" expanded="false" />
+            <element signature="e#3049#3116#0" expanded="false" />
+            <element signature="e#3122#3180#0" expanded="false" />
+            <element signature="e#3208#3354#0" expanded="false" />
             <element signature="e#3407#3693#0" expanded="false" />
             <element signature="e#3452#3520#0" expanded="false" />
             <element signature="e#3545#3612#0" expanded="false" />
             <element signature="e#3618#3679#0" expanded="false" />
+            <element signature="e#3707#3855#0" expanded="false" />
             <element signature="e#3902#3962#0" expanded="false" />
+            <element signature="e#3976#4112#0" expanded="false" />
             <element signature="e#4159#4233#0" expanded="false" />
+            <element signature="e#4247#4408#0" expanded="false" />
             <element signature="e#4455#4636#0" expanded="false" />
             <element signature="e#4495#4554#0" expanded="false" />
             <element signature="e#4560#4622#0" expanded="false" />
+            <element signature="e#4650#4789#0" expanded="false" />
             <element signature="e#4836#5019#0" expanded="false" />
             <element signature="e#4877#4937#0" expanded="false" />
             <element signature="e#4943#5005#0" expanded="false" />
+            <element signature="e#5033#5268#0" expanded="false" />
             <element signature="e#5315#5875#0" expanded="false" />
+            <element signature="e#5419#5570#0" expanded="false" />
+            <element signature="e#5599#5747#0" expanded="false" />
             <element signature="e#5772#5860#0" expanded="false" />
+            <element signature="e#5889#6130#0" expanded="false" />
             <element signature="e#6177#6815#0" expanded="false" />
             <element signature="e#6553#6801#0" expanded="false" />
+            <element signature="e#6829#7050#0" expanded="false" />
             <element signature="e#7097#7364#0" expanded="false" />
+            <element signature="e#7136#7199#0" expanded="false" />
+            <element signature="e#7224#7285#0" expanded="false" />
+            <element signature="e#7291#7350#0" expanded="false" />
+            <element signature="e#7378#7598#0" expanded="false" />
             <element signature="e#7645#7917#0" expanded="false" />
+            <element signature="e#7681#7831#0" expanded="false" />
+            <element signature="e#7837#7903#0" expanded="false" />
+            <element signature="e#7931#8306#0" expanded="false" />
             <element signature="e#8353#8541#0" expanded="false" />
+            <element signature="e#8406#8464#0" expanded="false" />
+            <element signature="e#8470#8527#0" expanded="false" />
+            <element signature="e#8555#8742#0" expanded="false" />
             <element signature="e#8813#9247#0" expanded="false" />
+            <element signature="e#8858#8942#0" expanded="false" />
+            <element signature="e#8948#9233#0" expanded="false" />
+            <element signature="e#9261#9391#0" expanded="false" />
             <element signature="e#9438#9603#0" expanded="false" />
+            <element signature="e#9617#9763#0" expanded="false" />
             <element signature="e#9813#10073#0" expanded="false" />
-            <marker date="1469686431000" expanded="false" signature="309:426" ph="/** 检测是否为数组 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="665:785" ph="/** 检测是否为字符串类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1025:1144" ph="/** 检测是否为数字类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1384:1503" ph="/** 检测是否为布尔类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1744:1861" ph="/** 检测是否为对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2101:2143" ph="/** 检测是否为函数 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2385:2507" ph="/** 创建一个使用给定对象作为原型的新对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2710:2857" ph="/** 给指定的元素添加事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3208:3354" ph="/** 移除指定元素的事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3707:3855" ph="/** 获取事件,IE中,DOM0级添加事件时,发生的事件event是window的一个属性 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3976:4112" ph="/** 获取事件发生元素, IE中使用srcElement表示事件发生的元素 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="4650:4789" ph="/** 阻止冒泡事件,IE中可能不存在stopPropagation方法, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5033:5268" ph="/** IE8及更低版本不支持event.pageX和event.pageY, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5889:6130" ph="/** 该方法用于获取事件发生的坐标,包括视口位置、页面位置以及屏幕坐标位置 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="6829:7050" ph="/** 获取relatedTarget, 兼容IE8 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7378:7598" ph="/** 获取wheelDelta, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7931:8306" ph="/** 获取按键的键码, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="8555:8742" ph="/** 该方法用于选择指定文本框中指定位置的文本, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="9261:9391" ph="/** 该方法用于在发生剪切版事件时获取剪切板中的内容 ...*/" />
+            <element signature="e#9852#9940#0" expanded="false" />
+            <element signature="e#9972#10059#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OE.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#252#0" expanded="false" />
+            <element signature="e#309#426#0" expanded="false" />
+            <element signature="e#475#651#0" expanded="false" />
+            <element signature="e#554#606#0" expanded="false" />
+            <element signature="e#665#785#0" expanded="false" />
+            <element signature="e#834#1011#0" expanded="false" />
+            <element signature="e#914#966#0" expanded="false" />
+            <element signature="e#1025#1144#0" expanded="false" />
+            <element signature="e#1193#1370#0" expanded="false" />
+            <element signature="e#1273#1325#0" expanded="false" />
+            <element signature="e#1384#1503#0" expanded="false" />
+            <element signature="e#1552#1730#0" expanded="false" />
+            <element signature="e#1633#1685#0" expanded="false" />
+            <element signature="e#1744#1861#0" expanded="false" />
+            <element signature="e#1910#2087#0" expanded="false" />
+            <element signature="e#1990#2042#0" expanded="false" />
+            <element signature="e#2101#2143#0" expanded="false" />
+            <element signature="e#2192#2371#0" expanded="false" />
+            <element signature="e#2274#2326#0" expanded="false" />
+            <element signature="e#2385#2507#0" expanded="false" />
+            <element signature="e#2556#2696#0" expanded="false" />
+            <element signature="e#2594#2613#0" expanded="false" />
+            <element signature="e#2710#2857#0" expanded="false" />
+            <element signature="e#2910#3194#0" expanded="false" />
+            <element signature="e#2952#3024#0" expanded="false" />
+            <element signature="e#3049#3116#0" expanded="false" />
+            <element signature="e#3122#3180#0" expanded="false" />
+            <element signature="e#3208#3354#0" expanded="false" />
+            <element signature="e#3407#3693#0" expanded="false" />
+            <element signature="e#3452#3520#0" expanded="false" />
+            <element signature="e#3545#3612#0" expanded="false" />
+            <element signature="e#3618#3679#0" expanded="false" />
+            <element signature="e#3707#3855#0" expanded="false" />
+            <element signature="e#3902#3962#0" expanded="false" />
+            <element signature="e#3976#4112#0" expanded="false" />
+            <element signature="e#4159#4233#0" expanded="false" />
+            <element signature="e#4247#4408#0" expanded="false" />
+            <element signature="e#4455#4636#0" expanded="false" />
+            <element signature="e#4495#4554#0" expanded="false" />
+            <element signature="e#4560#4622#0" expanded="false" />
+            <element signature="e#4650#4789#0" expanded="false" />
+            <element signature="e#4836#5019#0" expanded="false" />
+            <element signature="e#4877#4937#0" expanded="false" />
+            <element signature="e#4943#5005#0" expanded="false" />
+            <element signature="e#5033#5268#0" expanded="false" />
+            <element signature="e#5315#5875#0" expanded="false" />
+            <element signature="e#5419#5570#0" expanded="false" />
+            <element signature="e#5599#5747#0" expanded="false" />
+            <element signature="e#5772#5860#0" expanded="false" />
+            <element signature="e#5889#6130#0" expanded="false" />
+            <element signature="e#6177#6815#0" expanded="false" />
+            <element signature="e#6553#6801#0" expanded="false" />
+            <element signature="e#6829#7050#0" expanded="false" />
+            <element signature="e#7097#7364#0" expanded="false" />
+            <element signature="e#7136#7199#0" expanded="false" />
+            <element signature="e#7224#7285#0" expanded="false" />
+            <element signature="e#7291#7350#0" expanded="false" />
+            <element signature="e#7378#7598#0" expanded="false" />
+            <element signature="e#7645#7917#0" expanded="false" />
+            <element signature="e#7681#7831#0" expanded="false" />
+            <element signature="e#7837#7903#0" expanded="false" />
+            <element signature="e#7931#8306#0" expanded="false" />
+            <element signature="e#8353#8541#0" expanded="false" />
+            <element signature="e#8406#8464#0" expanded="false" />
+            <element signature="e#8470#8527#0" expanded="false" />
+            <element signature="e#8555#8742#0" expanded="false" />
+            <element signature="e#8813#9247#0" expanded="false" />
+            <element signature="e#8858#8942#0" expanded="false" />
+            <element signature="e#8948#9233#0" expanded="false" />
+            <element signature="e#9261#9391#0" expanded="false" />
+            <element signature="e#9438#9603#0" expanded="false" />
+            <element signature="e#9617#9763#0" expanded="false" />
+            <element signature="e#9813#10073#0" expanded="false" />
+            <element signature="e#9852#9940#0" expanded="false" />
+            <element signature="e#9972#10059#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1945,62 +2342,80 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#252#0" expanded="false" />
+            <element signature="e#309#426#0" expanded="false" />
             <element signature="e#475#651#0" expanded="false" />
             <element signature="e#554#606#0" expanded="false" />
+            <element signature="e#665#785#0" expanded="false" />
             <element signature="e#834#1011#0" expanded="false" />
             <element signature="e#914#966#0" expanded="false" />
+            <element signature="e#1025#1144#0" expanded="false" />
             <element signature="e#1193#1370#0" expanded="false" />
             <element signature="e#1273#1325#0" expanded="false" />
+            <element signature="e#1384#1503#0" expanded="false" />
             <element signature="e#1552#1730#0" expanded="false" />
             <element signature="e#1633#1685#0" expanded="false" />
+            <element signature="e#1744#1861#0" expanded="false" />
             <element signature="e#1910#2087#0" expanded="false" />
             <element signature="e#1990#2042#0" expanded="false" />
+            <element signature="e#2101#2143#0" expanded="false" />
             <element signature="e#2192#2371#0" expanded="false" />
             <element signature="e#2274#2326#0" expanded="false" />
+            <element signature="e#2385#2507#0" expanded="false" />
             <element signature="e#2556#2696#0" expanded="false" />
             <element signature="e#2594#2613#0" expanded="false" />
+            <element signature="e#2710#2857#0" expanded="false" />
             <element signature="e#2910#3194#0" expanded="false" />
+            <element signature="e#2952#3024#0" expanded="false" />
+            <element signature="e#3049#3116#0" expanded="false" />
+            <element signature="e#3122#3180#0" expanded="false" />
+            <element signature="e#3208#3354#0" expanded="false" />
             <element signature="e#3407#3693#0" expanded="false" />
             <element signature="e#3452#3520#0" expanded="false" />
             <element signature="e#3545#3612#0" expanded="false" />
             <element signature="e#3618#3679#0" expanded="false" />
+            <element signature="e#3707#3855#0" expanded="false" />
             <element signature="e#3902#3962#0" expanded="false" />
+            <element signature="e#3976#4112#0" expanded="false" />
             <element signature="e#4159#4233#0" expanded="false" />
+            <element signature="e#4247#4408#0" expanded="false" />
             <element signature="e#4455#4636#0" expanded="false" />
             <element signature="e#4495#4554#0" expanded="false" />
             <element signature="e#4560#4622#0" expanded="false" />
+            <element signature="e#4650#4789#0" expanded="false" />
             <element signature="e#4836#5019#0" expanded="false" />
             <element signature="e#4877#4937#0" expanded="false" />
             <element signature="e#4943#5005#0" expanded="false" />
+            <element signature="e#5033#5268#0" expanded="false" />
             <element signature="e#5315#5875#0" expanded="false" />
+            <element signature="e#5419#5570#0" expanded="false" />
+            <element signature="e#5599#5747#0" expanded="false" />
             <element signature="e#5772#5860#0" expanded="false" />
+            <element signature="e#5889#6130#0" expanded="false" />
             <element signature="e#6177#6815#0" expanded="false" />
             <element signature="e#6553#6801#0" expanded="false" />
+            <element signature="e#6829#7050#0" expanded="false" />
             <element signature="e#7097#7364#0" expanded="false" />
+            <element signature="e#7136#7199#0" expanded="false" />
+            <element signature="e#7224#7285#0" expanded="false" />
+            <element signature="e#7291#7350#0" expanded="false" />
+            <element signature="e#7378#7598#0" expanded="false" />
             <element signature="e#7645#7917#0" expanded="false" />
+            <element signature="e#7681#7831#0" expanded="false" />
+            <element signature="e#7837#7903#0" expanded="false" />
+            <element signature="e#7931#8306#0" expanded="false" />
             <element signature="e#8353#8541#0" expanded="false" />
+            <element signature="e#8406#8464#0" expanded="false" />
+            <element signature="e#8470#8527#0" expanded="false" />
+            <element signature="e#8555#8742#0" expanded="false" />
             <element signature="e#8813#9247#0" expanded="false" />
+            <element signature="e#8858#8942#0" expanded="false" />
+            <element signature="e#8948#9233#0" expanded="false" />
+            <element signature="e#9261#9391#0" expanded="false" />
             <element signature="e#9438#9603#0" expanded="false" />
+            <element signature="e#9617#9763#0" expanded="false" />
             <element signature="e#9813#10073#0" expanded="false" />
-            <marker date="1469686431000" expanded="false" signature="309:426" ph="/** 检测是否为数组 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="665:785" ph="/** 检测是否为字符串类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1025:1144" ph="/** 检测是否为数字类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1384:1503" ph="/** 检测是否为布尔类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1744:1861" ph="/** 检测是否为对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2101:2143" ph="/** 检测是否为函数 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2385:2507" ph="/** 创建一个使用给定对象作为原型的新对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2710:2857" ph="/** 给指定的元素添加事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3208:3354" ph="/** 移除指定元素的事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3707:3855" ph="/** 获取事件,IE中,DOM0级添加事件时,发生的事件event是window的一个属性 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3976:4112" ph="/** 获取事件发生元素, IE中使用srcElement表示事件发生的元素 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="4650:4789" ph="/** 阻止冒泡事件,IE中可能不存在stopPropagation方法, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5033:5268" ph="/** IE8及更低版本不支持event.pageX和event.pageY, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5889:6130" ph="/** 该方法用于获取事件发生的坐标,包括视口位置、页面位置以及屏幕坐标位置 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="6829:7050" ph="/** 获取relatedTarget, 兼容IE8 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7378:7598" ph="/** 获取wheelDelta, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7931:8306" ph="/** 获取按键的键码, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="8555:8742" ph="/** 该方法用于选择指定文本框中指定位置的文本, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="9261:9391" ph="/** 该方法用于在发生剪切版事件时获取剪切板中的内容 ...*/" />
+            <element signature="e#9852#9940#0" expanded="false" />
+            <element signature="e#9972#10059#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2019,62 +2434,80 @@
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
             <element signature="e#0#252#0" expanded="false" />
+            <element signature="e#309#426#0" expanded="false" />
             <element signature="e#475#651#0" expanded="false" />
             <element signature="e#554#606#0" expanded="false" />
+            <element signature="e#665#785#0" expanded="false" />
             <element signature="e#834#1011#0" expanded="false" />
             <element signature="e#914#966#0" expanded="false" />
+            <element signature="e#1025#1144#0" expanded="false" />
             <element signature="e#1193#1370#0" expanded="false" />
             <element signature="e#1273#1325#0" expanded="false" />
+            <element signature="e#1384#1503#0" expanded="false" />
             <element signature="e#1552#1730#0" expanded="false" />
             <element signature="e#1633#1685#0" expanded="false" />
+            <element signature="e#1744#1861#0" expanded="false" />
             <element signature="e#1910#2087#0" expanded="false" />
             <element signature="e#1990#2042#0" expanded="false" />
+            <element signature="e#2101#2143#0" expanded="false" />
             <element signature="e#2192#2371#0" expanded="false" />
             <element signature="e#2274#2326#0" expanded="false" />
+            <element signature="e#2385#2507#0" expanded="false" />
             <element signature="e#2556#2696#0" expanded="false" />
             <element signature="e#2594#2613#0" expanded="false" />
+            <element signature="e#2710#2857#0" expanded="false" />
             <element signature="e#2910#3194#0" expanded="false" />
+            <element signature="e#2952#3024#0" expanded="false" />
+            <element signature="e#3049#3116#0" expanded="false" />
+            <element signature="e#3122#3180#0" expanded="false" />
+            <element signature="e#3208#3354#0" expanded="false" />
             <element signature="e#3407#3693#0" expanded="false" />
             <element signature="e#3452#3520#0" expanded="false" />
             <element signature="e#3545#3612#0" expanded="false" />
             <element signature="e#3618#3679#0" expanded="false" />
+            <element signature="e#3707#3855#0" expanded="false" />
             <element signature="e#3902#3962#0" expanded="false" />
+            <element signature="e#3976#4112#0" expanded="false" />
             <element signature="e#4159#4233#0" expanded="false" />
+            <element signature="e#4247#4408#0" expanded="false" />
             <element signature="e#4455#4636#0" expanded="false" />
             <element signature="e#4495#4554#0" expanded="false" />
             <element signature="e#4560#4622#0" expanded="false" />
+            <element signature="e#4650#4789#0" expanded="false" />
             <element signature="e#4836#5019#0" expanded="false" />
             <element signature="e#4877#4937#0" expanded="false" />
             <element signature="e#4943#5005#0" expanded="false" />
+            <element signature="e#5033#5268#0" expanded="false" />
             <element signature="e#5315#5875#0" expanded="false" />
+            <element signature="e#5419#5570#0" expanded="false" />
+            <element signature="e#5599#5747#0" expanded="false" />
             <element signature="e#5772#5860#0" expanded="false" />
+            <element signature="e#5889#6130#0" expanded="false" />
             <element signature="e#6177#6815#0" expanded="false" />
             <element signature="e#6553#6801#0" expanded="false" />
+            <element signature="e#6829#7050#0" expanded="false" />
             <element signature="e#7097#7364#0" expanded="false" />
+            <element signature="e#7136#7199#0" expanded="false" />
+            <element signature="e#7224#7285#0" expanded="false" />
+            <element signature="e#7291#7350#0" expanded="false" />
+            <element signature="e#7378#7598#0" expanded="false" />
             <element signature="e#7645#7917#0" expanded="false" />
+            <element signature="e#7681#7831#0" expanded="false" />
+            <element signature="e#7837#7903#0" expanded="false" />
+            <element signature="e#7931#8306#0" expanded="false" />
             <element signature="e#8353#8541#0" expanded="false" />
+            <element signature="e#8406#8464#0" expanded="false" />
+            <element signature="e#8470#8527#0" expanded="false" />
+            <element signature="e#8555#8742#0" expanded="false" />
             <element signature="e#8813#9247#0" expanded="false" />
+            <element signature="e#8858#8942#0" expanded="false" />
+            <element signature="e#8948#9233#0" expanded="false" />
+            <element signature="e#9261#9391#0" expanded="false" />
             <element signature="e#9438#9603#0" expanded="false" />
+            <element signature="e#9617#9763#0" expanded="false" />
             <element signature="e#9813#10073#0" expanded="false" />
-            <marker date="1469686431000" expanded="false" signature="309:426" ph="/** 检测是否为数组 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="665:785" ph="/** 检测是否为字符串类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1025:1144" ph="/** 检测是否为数字类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1384:1503" ph="/** 检测是否为布尔类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1744:1861" ph="/** 检测是否为对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2101:2143" ph="/** 检测是否为函数 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2385:2507" ph="/** 创建一个使用给定对象作为原型的新对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2710:2857" ph="/** 给指定的元素添加事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3208:3354" ph="/** 移除指定元素的事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3707:3855" ph="/** 获取事件,IE中,DOM0级添加事件时,发生的事件event是window的一个属性 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3976:4112" ph="/** 获取事件发生元素, IE中使用srcElement表示事件发生的元素 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="4650:4789" ph="/** 阻止冒泡事件,IE中可能不存在stopPropagation方法, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5033:5268" ph="/** IE8及更低版本不支持event.pageX和event.pageY, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5889:6130" ph="/** 该方法用于获取事件发生的坐标,包括视口位置、页面位置以及屏幕坐标位置 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="6829:7050" ph="/** 获取relatedTarget, 兼容IE8 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7378:7598" ph="/** 获取wheelDelta, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7931:8306" ph="/** 获取按键的键码, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="8555:8742" ph="/** 该方法用于选择指定文本框中指定位置的文本, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="9261:9391" ph="/** 该方法用于在发生剪切版事件时获取剪切板中的内容 ...*/" />
+            <element signature="e#9852#9940#0" expanded="false" />
+            <element signature="e#9972#10059#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2096,74 +2529,92 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/demo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+        <state relative-caret-position="184">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/OE.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="307" column="14" selection-start-line="307" selection-start-column="14" selection-end-line="307" selection-end-column="14" />
+        <state relative-caret-position="440">
+          <caret line="343" column="15" selection-start-line="343" selection-start-column="15" selection-end-line="343" selection-end-column="15" />
           <folding>
             <element signature="e#0#252#0" expanded="false" />
+            <element signature="e#309#426#0" expanded="false" />
             <element signature="e#475#651#0" expanded="false" />
             <element signature="e#554#606#0" expanded="false" />
+            <element signature="e#665#785#0" expanded="false" />
             <element signature="e#834#1011#0" expanded="false" />
             <element signature="e#914#966#0" expanded="false" />
+            <element signature="e#1025#1144#0" expanded="false" />
             <element signature="e#1193#1370#0" expanded="false" />
             <element signature="e#1273#1325#0" expanded="false" />
+            <element signature="e#1384#1503#0" expanded="false" />
             <element signature="e#1552#1730#0" expanded="false" />
             <element signature="e#1633#1685#0" expanded="false" />
+            <element signature="e#1744#1861#0" expanded="false" />
             <element signature="e#1910#2087#0" expanded="false" />
             <element signature="e#1990#2042#0" expanded="false" />
+            <element signature="e#2101#2143#0" expanded="false" />
             <element signature="e#2192#2371#0" expanded="false" />
             <element signature="e#2274#2326#0" expanded="false" />
+            <element signature="e#2385#2507#0" expanded="false" />
             <element signature="e#2556#2696#0" expanded="false" />
             <element signature="e#2594#2613#0" expanded="false" />
+            <element signature="e#2710#2857#0" expanded="false" />
             <element signature="e#2910#3194#0" expanded="false" />
+            <element signature="e#2952#3024#0" expanded="false" />
+            <element signature="e#3049#3116#0" expanded="false" />
+            <element signature="e#3122#3180#0" expanded="false" />
+            <element signature="e#3208#3354#0" expanded="false" />
             <element signature="e#3407#3693#0" expanded="false" />
             <element signature="e#3452#3520#0" expanded="false" />
             <element signature="e#3545#3612#0" expanded="false" />
             <element signature="e#3618#3679#0" expanded="false" />
+            <element signature="e#3707#3855#0" expanded="false" />
             <element signature="e#3902#3962#0" expanded="false" />
+            <element signature="e#3976#4112#0" expanded="false" />
             <element signature="e#4159#4233#0" expanded="false" />
+            <element signature="e#4247#4408#0" expanded="false" />
             <element signature="e#4455#4636#0" expanded="false" />
             <element signature="e#4495#4554#0" expanded="false" />
             <element signature="e#4560#4622#0" expanded="false" />
+            <element signature="e#4650#4789#0" expanded="false" />
             <element signature="e#4836#5019#0" expanded="false" />
             <element signature="e#4877#4937#0" expanded="false" />
             <element signature="e#4943#5005#0" expanded="false" />
+            <element signature="e#5033#5268#0" expanded="false" />
             <element signature="e#5315#5875#0" expanded="false" />
+            <element signature="e#5419#5570#0" expanded="false" />
+            <element signature="e#5599#5747#0" expanded="false" />
             <element signature="e#5772#5860#0" expanded="false" />
+            <element signature="e#5889#6130#0" expanded="false" />
             <element signature="e#6177#6815#0" expanded="false" />
             <element signature="e#6553#6801#0" expanded="false" />
+            <element signature="e#6829#7050#0" expanded="false" />
             <element signature="e#7097#7364#0" expanded="false" />
+            <element signature="e#7136#7199#0" expanded="false" />
+            <element signature="e#7224#7285#0" expanded="false" />
+            <element signature="e#7291#7350#0" expanded="false" />
+            <element signature="e#7378#7598#0" expanded="false" />
             <element signature="e#7645#7917#0" expanded="false" />
+            <element signature="e#7681#7831#0" expanded="false" />
+            <element signature="e#7837#7903#0" expanded="false" />
+            <element signature="e#7931#8306#0" expanded="false" />
             <element signature="e#8353#8541#0" expanded="false" />
+            <element signature="e#8406#8464#0" expanded="false" />
+            <element signature="e#8470#8527#0" expanded="false" />
+            <element signature="e#8555#8742#0" expanded="false" />
             <element signature="e#8813#9247#0" expanded="false" />
+            <element signature="e#8858#8942#0" expanded="false" />
+            <element signature="e#8948#9233#0" expanded="false" />
+            <element signature="e#9261#9391#0" expanded="false" />
             <element signature="e#9438#9603#0" expanded="false" />
+            <element signature="e#9617#9763#0" expanded="false" />
             <element signature="e#9813#10073#0" expanded="false" />
-            <marker date="1469686431000" expanded="false" signature="309:426" ph="/** 检测是否为数组 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="665:785" ph="/** 检测是否为字符串类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1025:1144" ph="/** 检测是否为数字类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1384:1503" ph="/** 检测是否为布尔类型 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="1744:1861" ph="/** 检测是否为对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2101:2143" ph="/** 检测是否为函数 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2385:2507" ph="/** 创建一个使用给定对象作为原型的新对象 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="2710:2857" ph="/** 给指定的元素添加事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3208:3354" ph="/** 移除指定元素的事件监听 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3707:3855" ph="/** 获取事件,IE中,DOM0级添加事件时,发生的事件event是window的一个属性 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="3976:4112" ph="/** 获取事件发生元素, IE中使用srcElement表示事件发生的元素 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="4650:4789" ph="/** 阻止冒泡事件,IE中可能不存在stopPropagation方法, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5033:5268" ph="/** IE8及更低版本不支持event.pageX和event.pageY, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="5889:6130" ph="/** 该方法用于获取事件发生的坐标,包括视口位置、页面位置以及屏幕坐标位置 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="6829:7050" ph="/** 获取relatedTarget, 兼容IE8 ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7378:7598" ph="/** 获取wheelDelta, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="7931:8306" ph="/** 获取按键的键码, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="8555:8742" ph="/** 该方法用于选择指定文本框中指定位置的文本, ...*/" />
-            <marker date="1469686431000" expanded="false" signature="9261:9391" ph="/** 该方法用于在发生剪切版事件时获取剪切板中的内容 ...*/" />
+            <element signature="e#9852#9940#0" expanded="false" />
+            <element signature="e#9972#10059#0" expanded="false" />
           </folding>
         </state>
       </provider>
