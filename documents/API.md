@@ -176,3 +176,27 @@ This method is used to set the text in the clipboard when a clipboard event is h
 ```javascript
 OE.getClipboardText(e, v);
 ```
+
+### isEmailSupported
+
+This method is used to check if the browser support the type="email" in input, if it is supported, true will be returned. The usage of the method is as following codes:
+
+```javascript
+OE.isEmailSupported();
+```
+
+### isUrlSupported
+
+This method is used to check if the browser support the type="url" in input, if it is supported, true will be returned. The usage of the method is as following codes:
+
+```javascript
+OE.isUrlSupported();
+```
+
+### isPatternSupported
+
+This method is used to check if the browser support the pattern attribute in input, if it is supported, true will be returned. The usage of the method is as following codes:
+
+```javascript
+OE.isPatternSupported();
+```
