@@ -160,3 +160,19 @@ This method is used to select the specific text in specific input or textarea el
 ```javascript
 OE.selectText(obj, startIndex, endIndex);
 ```
+
+### getClipboardText
+
+This method is used to get the text in the clipboard when a clipboard event is happening. The clipboard event can be any of the list of "beforecut, cut, beforecopy, copy, beforepaste, paste". When you want to use this method, a param is required: the clipboard event itself. The usage of this method is as the following codes:
+
+```javascript
+OE.getClipboardText(e);
+```
+
+### setClipboardText
+
+This method is used to set the text in the clipboard when a clipboard event is happening. The clipboard event can be any of the list of "beforecut, cut, beforecopy, copy, beforepaste, paste". When you want to use this method, two params are required: the clipboard event itself and the value that you want to put into the clipboard. The usage of this method is as the following codes:
+
+```javascript
+OE.getClipboardText(e, v);
+```
