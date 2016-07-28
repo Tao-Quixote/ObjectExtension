@@ -272,6 +272,25 @@
                 } else {
                     return e.keyCode;
                 }
+            },
+            /**
+             * 该方法用于选择指定文本框中指定位置的文本,
+             * 兼容IE8及以前版本
+             *
+             * @param obj
+             * @param startIndex
+             * @param endIndex
+             */
+            selectText : function (obj, startIndex, endIndex) {
+                if (obj.setSelectionRange) {
+                    obj.setSelectionRange(startIndex, endIndex);
+                } else {
+                    var range = obj.createTextRange();
+                    range.collapse(true);
+                    range.moveStart('character', startIndex);
+                    range.moveEnd('character', startIndex - endIndex);
+                    range.select();
+                }
             }
         }
     }

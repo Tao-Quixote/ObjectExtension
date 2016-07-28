@@ -152,3 +152,11 @@ This method is used to get the char code of the key which is pressed. In some br
 ```javascript
 OE.getCharCode(e);
 ```
+
+### selectText
+
+This method is used to select the specific text in specific input or textarea element. it requires three params, the first one is the element itself, the second one is start position of the text that you want to select, the last one is the end position of the text that you want to select. The usage of the method is as the following codes:
+
+```javascript
+OE.selectText(obj, startIndex, endIndex);
+```
