@@ -119,7 +119,7 @@
              * @param t 事件类型
              * @param h 处理方法
              */
-            removeHandle       : function (e, t, h) {
+            removeHandler      : function (e, t, h) {
                 if (e.removeEventListener) {
                     e.removeEventListener(t, h);
                 } else if (e.detachEvent) {
@@ -305,7 +305,7 @@
             },
             /**
              * 该方法用于向剪切板内设置内容
-             * 
+             *
              * @param e
              * @param v
              * @returns {boolean}
