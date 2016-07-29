@@ -1,0 +1,28 @@
+{
+  "name": "oe",
+  "version": "1.0.0",
+  "description": "An object has many methods to empower the Object",
+  "main": "OE.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tao-Quixote/ObjectExtension.git"
+  },
+  "keywords": [
+    "OE"
+  ],
+  "author": "Tao-Quixote",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tao-Quixote/ObjectExtension/issues"
+  },
+  "homepage": "https://github.com/Tao-Quixote/ObjectExtension#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.4",
+    "pump": "^1.0.1"
+  }
+}
