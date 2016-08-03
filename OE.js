@@ -6,7 +6,7 @@
  * If there is any problem or error or suggestion, please concat by web.taox@gmail.co
  */
 
-(function (window) {
+(function(window) {
         window.OE = {
             /**
              * 检测是否为数组
@@ -14,8 +14,8 @@
              * @param obj
              * @returns {boolean}
              */
-            isArray            : function (obj) {
-                if ('[object Array]' == Object.prototype.toString.call(obj)) {
+            isArray            : function(obj) {
+                if('[object Array]' == Object.prototype.toString.call(obj)) {
                     return true;
                 }
 
@@ -27,8 +27,8 @@
              * @param obj
              * @returns {boolean}
              */
-            isString           : function (obj) {
-                if (Object.prototype.toString.call(obj) == '[object String]') {
+            isString           : function(obj) {
+                if(Object.prototype.toString.call(obj) == '[object String]') {
                     return true;
                 }
 
@@ -40,8 +40,8 @@
              * @param obj
              * @returns {boolean}
              */
-            isNumber           : function (obj) {
-                if (Object.prototype.toString.call(obj) == '[object Number]') {
+            isNumber           : function(obj) {
+                if(Object.prototype.toString.call(obj) == '[object Number]') {
                     return true;
                 }
 
@@ -53,8 +53,8 @@
              * @param obj
              * @returns {boolean}
              */
-            isBoolean          : function (obj) {
-                if (Object.prototype.toString.call(obj) == '[object Boolean]') {
+            isBoolean          : function(obj) {
+                if(Object.prototype.toString.call(obj) == '[object Boolean]') {
                     return true;
                 }
 
@@ -66,8 +66,8 @@
              * @param obj
              * @returns {boolean}
              */
-            isObject           : function (obj) {
-                if (Object.prototype.toString.call(obj) == '[object Object]') {
+            isObject           : function(obj) {
+                if(Object.prototype.toString.call(obj) == '[object Object]') {
                     return true;
                 }
 
@@ -76,8 +76,8 @@
             /**
              * 检测是否为函数
              */
-            isFunction         : function (obj) {
-                if (Object.prototype.toString.call(obj) == '[object Function]') {
+            isFunction         : function(obj) {
+                if(Object.prototype.toString.call(obj) == '[object Function]') {
                     return true;
                 }
 
@@ -89,8 +89,8 @@
              * @param obj
              * @returns {F}
              */
-            createFrom         : function (obj) {
-                var F = function () {
+            createFrom         : function(obj) {
+                var F = function() {
                 };
                 F.prototype = obj;
 
@@ -103,13 +103,13 @@
              * @param t 事件类型
              * @param h 处理方法
              */
-            addHandler         : function (e, t, h) {
-                if (e.addEventListener) {
+            addHandler         : function(e, t, h) {
+                if(e.addEventListener) {
                     e.addEventListener(t, h, false);
-                } else if (e.attachEvent) {
+                } else if(e.attachEvent) {
                     e.attachEvent("on" + t, h);
                 } else {
-                    e[ "on" + t ] = h;
+                    e["on" + t] = h;
                 }
             },
             /**
@@ -119,13 +119,13 @@
              * @param t 事件类型
              * @param h 处理方法
              */
-            removeHandler      : function (e, t, h) {
-                if (e.removeEventListener) {
+            removeHandler      : function(e, t, h) {
+                if(e.removeEventListener) {
                     e.removeEventListener(t, h);
-                } else if (e.detachEvent) {
+                } else if(e.detachEvent) {
                     e.detachEvent("on" + t, h);
                 } else {
-                    e[ "on" + t ] = null;
+                    e["on" + t] = null;
                 }
             },
             /**
@@ -134,7 +134,7 @@
              * @param e
              * @returns {Event}
              */
-            getEvent           : function (e) {
+            getEvent           : function(e) {
                 return e ? e : window.event;
             },
             /**
@@ -143,7 +143,7 @@
              * @param e
              * @returns {*}
              */
-            getTarget          : function (e) {
+            getTarget          : function(e) {
                 return e.target ? e.target : e.srcElement;
             },
             /**
@@ -153,8 +153,8 @@
              *
              * @param e
              */
-            preventDefault     : function (e) {
-                if (e.preventDefault) {
+            preventDefault     : function(e) {
+                if(e.preventDefault) {
                     e.preventDefault();
                 } else {
                     e.returnValue = false;
@@ -166,8 +166,8 @@
              *
              * @param e
              */
-            stopPropagation    : function (e) {
-                if (e.stopPropagation) {
+            stopPropagation    : function(e) {
+                if(e.stopPropagation) {
                     e.stopPropagation();
                 } else {
                     e.cancelBubble = true;
@@ -180,14 +180,14 @@
              * @param e
              * @returns {{pageX: (*|Number), pageY: (*|Number)}}
              */
-            getPageXY          : function (e) {
+            getPageXY          : function(e) {
                 var pageX = e.pageX;
                 var pageY = e.pageY;
-                if (!pageX) {
+                if(!pageX) {
                     pageX = e.clientX + (document.body.scrollLeft || document.documentElement.scrollLeft
                         );
                 }
-                if (!pageY) {
+                if(!pageY) {
                     pageY = e.clientY + (document.body.scrollTop || document.documentElement.scrollTop
                         )
                 }
@@ -203,7 +203,7 @@
              * @param e
              * @returns {{clientX: Number, clientY: Number, pageX: *, pageY: *, screenX: (number|Number), screenY: (number|Number)}}
              */
-            getMouseCoordinate : function (e) {
+            getMouseCoordinate : function(e) {
                 var event = this.getEvent(e);
                 var clientX = event.clientX;
                 var clientY = event.clientY;
@@ -230,10 +230,10 @@
              * @param e
              * @returns {*}
              */
-            getRelatedTarget   : function (e) {
-                if (e.relatedTarget) {
+            getRelatedTarget   : function(e) {
+                if(e.relatedTarget) {
                     return e.relatedTarget;
-                } else if (e.fromElement) {
+                } else if(e.fromElement) {
                     return e.fromElement;
                 } else {
                     return e.toElement;
@@ -247,8 +247,8 @@
              * @param e
              * @returns {*}
              */
-            getWheelDelta      : function (e) {
-                if (e.wheelDelta) {
+            getWheelDelta      : function(e) {
+                if(e.wheelDelta) {
                     return (client.engine.opera && client.engine.opera < 9.5 ? -e.wheelDelta : e.wheelDelta
                     );
                 } else {
@@ -266,8 +266,8 @@
              * @param e
              * @returns {*}
              */
-            getCharCode        : function (e) {
-                if (typeof e.charCode == 'number') {
+            getCharCode        : function(e) {
+                if(typeof e.charCode == 'number') {
                     return e.charCode;
                 } else {
                     return e.keyCode;
@@ -281,8 +281,8 @@
              * @param startIndex
              * @param endIndex
              */
-            selectText         : function (obj, startIndex, endIndex) {
-                if (obj.setSelectionRange) {
+            selectText         : function(obj, startIndex, endIndex) {
+                if(obj.setSelectionRange) {
                     obj.setSelectionRange(startIndex, endIndex);
                 } else {
                     var range = obj.createTextRange();
@@ -298,7 +298,7 @@
              * @param e
              * @returns {string}
              */
-            getClipboardText   : function (e) {
+            getClipboardText   : function(e) {
                 var clipboardData = (e.clipboardData || window.clipboardData
                 );
                 return clipboardData.getData('text');
@@ -310,10 +310,10 @@
              * @param v
              * @returns {boolean}
              */
-            setClipboardText   : function (e, v) {
-                if (e.clipboardData) {
+            setClipboardText   : function(e, v) {
+                if(e.clipboardData) {
                     return e.clipboardData.setData('text/plain', v);
-                } else if (window.clipboardData) {
+                } else if(window.clipboardData) {
                     return window.clipboardData.setData('text', v);
                 }
             },
@@ -322,7 +322,7 @@
              *
              * @returns {boolean}
              */
-            isEmailSupported   : function () {
+            isEmailSupported   : function() {
                 var input = document.createElement('input');
                 input.type = 'email';
 
@@ -333,7 +333,7 @@
              *
              * @returns {boolean}
              */
-            isUrlSupported     : function () {
+            isUrlSupported     : function() {
                 var input = document.createElement('input');
                 input.type = 'url';
 
@@ -341,11 +341,24 @@
             },
             /**
              * 检测当前浏览器是否支持input的pattern属性
-             * 
+             *
              * @returns {boolean}
              */
-            isPatternSupported : function () {
+            isPatternSupported : function() {
                 return 'pattern' in document.createElement('input');
+            },
+
+            /**
+             * 判断year是否为闰年
+             * 
+             * @param year
+             * @returns {boolean}
+             */
+            isLeapYear : function(year) {
+                return (year % 4 == 0
+                       ) && (year % 100 != 0
+                       ) || (year % 400 == 0
+                       );
             }
         }
     }

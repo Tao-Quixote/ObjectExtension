@@ -200,3 +200,11 @@ This method is used to check if the browser support the pattern attribute in inp
 ```javascript
 OE.isPatternSupported();
 ```
+
+### isLeapYear
+
+This method is used to check if a specific year is a leap year or not. The usage of the method is as following codes:
+
+```javascript
+OE.isLeapYear(year);
+```
