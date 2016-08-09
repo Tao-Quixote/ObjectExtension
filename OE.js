@@ -346,7 +346,7 @@
              */
             isPatternSupported : function () {
                 return 'pattern' in document.createElement('input');
-            }
+            },
         }
     }
 )(window);
