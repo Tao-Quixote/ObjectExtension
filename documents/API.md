@@ -200,3 +200,12 @@ This method is used to check if the browser support the pattern attribute in inp
 ```javascript
 OE.isPatternSupported();
 ```
+
+### addURLParam
+
+This method is used to add query string behind the url, it requires three params: url, query name and query value.The usage of the method is as following codes:
+
+```javascript
+OE.addURLParam(url, name, value);
+```
+This method will return the final url, it's made of url?name=value.
