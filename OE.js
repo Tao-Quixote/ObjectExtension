@@ -347,6 +347,21 @@
             isPatternSupported : function () {
                 return 'pattern' in document.createElement('input');
             },
+            /**
+             * 在url后添加查询字符串，
+             * 其中的name和value会经过encodeURIComponent()转换
+             *
+             * @param url
+             * @param name
+             * @param value
+             * @returns {string|*}
+             */
+            addURLParam: function (url, name, value) {
+                url += url.indexOf('?') == -1 ? '?' : '&';
+                url += encodeURIComponent(name) + '=' + encodeURIComponent(value);
+
+                return url;
+            }
         }
     }
 )(window);
