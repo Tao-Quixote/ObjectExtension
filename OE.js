@@ -361,6 +361,14 @@
                 url += encodeURIComponent(name) + '=' + encodeURIComponent(value);
 
                 return url;
+            },
+            /**
+             * 检测浏览器是否支持Page Visibility API
+             *
+             * @returns {boolean}
+             */
+            isHiddenSupported: function () {
+                return ('hidden' in document || 'webkitHidden' in document || 'msHidden' in document);
             }
         }
     }
