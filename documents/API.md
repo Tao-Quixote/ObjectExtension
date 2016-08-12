@@ -209,3 +209,11 @@ This method is used to add query string behind the url, it requires three params
 OE.addURLParam(url, name, value);
 ```
 This method will return the final url, it's made of url?name=value.
+
+### isHiddenSupported
+
+This method is used to detect if the Page Visibility API supported, if this API is supported, true will be returned. The usage of the method is as following codes:
+
+```javascript
+OE.isHiddenSupported();
+```
